@@ -7,7 +7,7 @@
 Here are some ideas to get you started:
 -->
 <!-- **🔭 I’m currently working on my <a href="https://www.piyushp7pravin.tech/"><b>Portfolio Website</b> </a> and Twitter Sentiment Analysis Project**<br> -->
-**🌱 I’m currently Data Analyst and Machine Learning**
+**🌱 I’m currently learning Data Analyst and Machine Learning**
 <br>
 <br>
 **✨ Tech stacks currently using** <br>
@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 <code><a href="https://jupyter.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></a></code>
 <code><a href="https://www.mysql.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></a></code>
 <code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
-<code><a href="https://analytics.google.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-ar21.svg"></a></code>
+**✨ Visualization Data currently using** <br>
+<br>
 <code><a href="https://powerbi.microsoft.com/en-us/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg"></a></code>
 <code><a href="https://www.tableau.com/" target="_blank"><img height="50" src="https://cdn.worldvectorlogo.com/logos/tableau-logo.svg"></a></code>
 <br>
