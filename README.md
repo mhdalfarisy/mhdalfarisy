@@ -1,5 +1,5 @@
 
-<h1> Hi there Faris ! <img src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Hi.gif" width="29px"> </h1>
+<h1> Hi ! <img src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Hi.gif" width="29px"> I'am Faris </h1>
 <br>
 <img align="right" width="400" height="400" src="https://media-exp1.licdn.com/dms/image/C4D03AQHTT9_pSbXz5g/profile-displayphoto-shrink_200_200/0/1655456954982?e=1671062400&v=beta&t=PJssOuKNENzAMjnmc2jix-8fN8SPoULs91k279vkzjQ">
 
