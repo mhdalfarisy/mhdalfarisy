@@ -32,8 +32,6 @@ Here are some ideas to get you started:
 **💬 My inbox is always open, Contact me**
 <br>
 <br> 
-  <a href="https://in.linkedin.com/in/piyushp7pravin">
-   <img align="left" alt="Piyush Pravin | Linkedin" width="24px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Linkedin.svg" />
   </a>
   <a href="mailto:m.alfarisy797@gmail.com">
     <img align="left" alt="Piyush Pravin | Gmail" width="26px" src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" />
