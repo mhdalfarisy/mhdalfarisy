@@ -8,7 +8,7 @@
 
 Here are some ideas to get you started:
 -->
-<!-- **🔭 I’m currently working on my <a href="https://www.piyushp7pravin.tech/"><b>Portfolio Website</b> </a> and Twitter Sentiment Analysis Project**<br> -->
+<!-- **🔭 I’m can contribute working on my <a href="https://www.piyushp7pravin.tech/"><b>Portfolio Website</b> </a> and Twitter Sentiment Analysis Project**<br> -->
 **🌱 I’m currently learning Data Analyst and Machine Learning**
 <br>
 <br>
