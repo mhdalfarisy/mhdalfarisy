@@ -35,13 +35,13 @@ Here are some ideas to get you started:
   <a href="https://in.linkedin.com/in/piyushp7pravin">
    <img align="left" alt="Piyush Pravin | Linkedin" width="24px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Linkedin.svg" />
   </a>
-  <a href="mailto:piyushpravin1998@gmail.com">
+  <a href="mailto:m.alfarisy797@gmail.com">
     <img align="left" alt="Piyush Pravin | Gmail" width="26px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Gmail.svg" />
   </a>
-  <a href="https://twitter.com/PiyushP7pravin">
-    <img align="left" alt="Piyush Pravin | Twitter" width="26px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Twitter.svg" />
+  <a href="https://www.linkedin.com/in/m-alfarisy97/">
+    <img align="left" alt="Piyush Pravin | Twitter" width="26px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />
   </a>
-  <a href="https://www.instagram.com/piyushp7pravin/">
+  <a href="https://www.instagram.com/___inifaris/">
     <img align="left" alt="Piyush Pravin | Instagram" width="24px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Instagram.svg" />
   </a>
 <br>
