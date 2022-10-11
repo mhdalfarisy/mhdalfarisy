@@ -36,13 +36,13 @@ Here are some ideas to get you started:
    <img align="left" alt="Piyush Pravin | Linkedin" width="24px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Linkedin.svg" />
   </a>
   <a href="mailto:m.alfarisy797@gmail.com">
-    <img align="left" alt="Piyush Pravin | Gmail" width="26px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Gmail.svg" />
+    <img align="left" alt="Piyush Pravin | Gmail" width="26px" src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" />
   </a>
   <a href="https://www.linkedin.com/in/m-alfarisy97/">
-    <img align="left" alt="Piyush Pravin | Twitter" width="26px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />
+    <img align="left" alt="Piyush Pravin | Instagram" width="26px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />
   </a>
-  <a href="https://www.instagram.com/___inifaris/">
-    <img align="left" alt="Piyush Pravin | Instagram" width="24px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Instagram.svg" />
+  <a href="https://www.instagram.com/inifaris_____/">
+    <img align="left" alt="Piyush Pravin | Instagram" width="24px" src="https://cdn.worldvectorlogo.com/logos/instagram-5.svg" />
   </a>
 <br>
 <br>
