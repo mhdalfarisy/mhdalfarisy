@@ -28,6 +28,8 @@ Here are some ideas to get you started:
 <code><a href="https://public.tableau.com/app/profile/muhammad.al.farisy6147" target="_blank"><img height="50" src="https://cdn.worldvectorlogo.com/logos/tableau-logo.svg"></a></code>
 <br>
 <br>
+**✨ Portfolio** <br>
+
 <br>
 <br>
 **💬 Ask me about anything, I'll be happy to help!** <br>
