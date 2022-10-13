@@ -6,11 +6,10 @@
 
 
 <!--
-**piyushP7pravin/piyushP7pravin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**MuhammadAl-farisy/MuhammadAl-farisy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 -->
-<!-- **🔭 I’m can contribute working on my <a href="https://www.piyushp7pravin.tech/"><b>Portfolio Website</b> </a> and Twitter Sentiment Analysis Project**<br> -->
 **🌱 I’m can contribute working on Data Analyst and Machine Learning**
 <br>
 <br>
@@ -27,7 +26,7 @@ Here are some ideas to get you started:
 **✨ Visualization Data currently using** <br>
 <br>
 <code><a href="https://powerbi.microsoft.com/en-us/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg"></a></code>
-<code><a href="https://public.tableau.com/app/profile/muhammad.al.farisy6147" target="_blank"><img height="50" src="https://cdn.worldvectorlogo.com/logos/tableau-logo.svg"></a></code>
+<code><a href="https://public.tableau.com/app/profile/muhammad.al.farisy6147" target="_blank"><img height="20" src="https://cdn.worldvectorlogo.com/logos/tableau-logo.svg"></a></code>
 <br>
 <br>
 
