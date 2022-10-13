@@ -2,7 +2,7 @@
 <h1> Hi, i'am Faris ! <img src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Hi.gif" width="50px"> </h1>
 <br>
 
-<img align="right" width="500" height="500" src="https://shrinkdlink.com/wp-content/uploads/2022/06/1637779651.jpg">
+<img align="right" width="500" height="500" src="https://images.careerbuilder.vn/content/images/data-analyst-careerbuilder.jpg">
 
 
 <!--
