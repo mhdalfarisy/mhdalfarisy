@@ -2,9 +2,6 @@
 <h1> Hi, i'am Faris ! <img src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Hi.gif" width="50px"> </h1>
 <br>
 
-<img align="right" width="500" height="500" src="https://images.careerbuilder.vn/content/images/data-analyst-careerbuilder.jpg">
-
-
 <!--
 **MuhammadAl-farisy/MuhammadAl-farisy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
