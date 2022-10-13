@@ -86,7 +86,7 @@ Here are some ideas to get you started:
 <td align="Machine Learning California House Price Predict" width="20%">
 <span><b><center>NodeJS</center></b></span> 
 <code><a href="https://github.com/mhdalfarisy/California-House-Price-Prediction-Using-Machine-Learnin" target="_blank">
-<img height=60px src="[https://img.icons8.com/color/2x/nodejs.png](https://github.com/mhdalfarisy/California-House-Price-Prediction-Using-Machine-Learning/blob/main/gambar/CA-Sales-Home-Volume.png)"> 
+<img height=60px src="https://github.com/mhdalfarisy/California-House-Price-Prediction-Using-Machine-Learning/blob/main/gambar/CA-Sales-Home-Volume.png">  
 </td>
 </tr>
 
