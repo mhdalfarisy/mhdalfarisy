@@ -31,17 +31,29 @@ Here are some ideas to get you started:
 <br>
 <br>
 **✨ Portfolio** <br>
-**Visualization E-Commers Pakistan** <br>
-<code><a href="https://public.tableau.com/app/profile/muhammad.al.farisy6147/viz/ProjectE-CommersPakistanDashboard/Dashboard1" target="_blank"><img height="400" src="https://github.com/mhdalfarisy/mhdalfarisy/blob/main/Dashboard%20Tableau.png"></a></code> 
+<br>
+<table>
+<tbody>
+ <tr>
+<td align="center" width="20%">
+<span><b><center>Visualization E-Commers Pakistan</center></b></span>
+<code><a href="https://public.tableau.com/app/profile/muhammad.al.farisy6147/viz/ProjectE-CommersPakistanDashboard/Dashboard1" target="_blank">
+<img height=100px src="https://github.com/mhdalfarisy/mhdalfarisy/blob/main/Dashboard%20Tableau.png"> 
+</td>
 
-**Data Analyst E-Commers Pakistan** <br>
-<code><a href="https://github.com/mhdalfarisy/EDA---Pakistan-s-Larges-Ecommers" target="_blank"><img height="250" src="https://github.com/mhdalfarisy/EDA---Pakistan-s-Larges-Ecommers/blob/main/Images/62253a402fccf.jpg"></a></code>
+<td align="center" width="20%">
+<span><b><center>Data Analyst E-Commers Pakistan</center></b></span> 
+<code><a href="https://github.com/mhdalfarisy/EDA---Pakistan-s-Larges-Ecommers" target="_blank">
+<img height=10px src="https://github.com/mhdalfarisy/EDA---Pakistan-s-Larges-Ecommers/blob/main/Images/62253a402fccf.jpg"> 
+</td>
 
-**Data Analyst Employee Analysis Attrition Report** <br>
-<code><a href="https://github.com/mhdalfarisy/Employee-Analysis-Attrition-Report" target="_blank"><img height="200" src="https://github.com/mhdalfarisy/Employee-Analysis-Attrition-Report/blob/main/Aset/Reasons-Attrition1_large%20(1).jpg"></a></code>
+<td align="center" width="20%">
+<span><b><center>Machine Learning House Price Predict</center></b></span> 
+<code><a href="https://github.com/mhdalfarisy/California-House-Price-Prediction-Using-Machine-Learnin" target="_blank">
+<img height=100px src="https://github.com/mhdalfarisy/California-House-Price-Prediction-Using-Machine-Learning/blob/main/gambar/CA-Sales-Home-Volume.png">  
+</td>
+</tr>
 
-**Machine Learning California House Price Predict** <br>
-<code><a href="https://github.com/mhdalfarisy/California-House-Price-Prediction-Using-Machine-Learning" target="_blank"><img height="250" src="https://github.com/mhdalfarisy/California-House-Price-Prediction-Using-Machine-Learning/blob/main/gambar/CA-Sales-Home-Volume.png"></a></code>
 
 <br>
 <br>
@@ -64,29 +76,3 @@ Here are some ideas to get you started:
 <br>
 
 ⭐️ From [Muhammad Al-farisy](https://github.com/mhdalfarisy)
-
-## Tech Stack :computer:
-
-<br>
-<table>
-<tbody>
- <tr>
-<td align="center" width="20%">
-<span><b><center>Visualization E-Commers Pakistan</center></b></span>
-<code><a href="https://public.tableau.com/app/profile/muhammad.al.farisy6147/viz/ProjectE-CommersPakistanDashboard/Dashboard1" target="_blank">
-<img height=100px src="https://github.com/mhdalfarisy/mhdalfarisy/blob/main/Dashboard%20Tableau.png"> 
-</td>
-
-<td align="center" width="20%">
-<span><b><center>Data Analyst E-Commers Pakistan</center></b></span> 
-<code><a href="https://github.com/mhdalfarisy/EDA---Pakistan-s-Larges-Ecommers" target="_blank">
-<img height=10px src="https://github.com/mhdalfarisy/EDA---Pakistan-s-Larges-Ecommers/blob/main/Images/62253a402fccf.jpg"> 
-</td>
-
-<td align="center" width="20%">
-<span><b><center>Machine Learning California House Price Predict</center></b></span> 
-<code><a href="https://github.com/mhdalfarisy/California-House-Price-Prediction-Using-Machine-Learnin" target="_blank">
-<img height=100px src="https://github.com/mhdalfarisy/California-House-Price-Prediction-Using-Machine-Learning/blob/main/gambar/CA-Sales-Home-Volume.png">  
-</td>
-</tr>
-
