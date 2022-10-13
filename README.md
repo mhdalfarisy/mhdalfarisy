@@ -34,6 +34,9 @@ Here are some ideas to get you started:
 Visualization E-Commers Pakistan <br>
 <code><a href="https://public.tableau.com/app/profile/muhammad.al.farisy6147/viz/ProjectE-CommersPakistanDashboard/Dashboard1" target="_blank"><img height="200" src="https://github.com/mhdalfarisy/mhdalfarisy/blob/main/Dashboard%20Tableau.png"></a></code>
 
+Machine Learning California House Price Predict <br>
+<code><a href="https://github.com/mhdalfarisy/California-House-Price-Prediction-Using-Machine-Learning" target="_blank"><img height="200" src="https://github.com/mhdalfarisy/California-House-Price-Prediction-Using-Machine-Learning/blob/main/gambar/1-Skyline_Street-Scene_CC_RET_conversion1_920.jpg"></a></code>
+
 <br>
 <br>
 **💬 Ask me about anything, I'll be happy to help!** <br>
