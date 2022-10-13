@@ -34,10 +34,6 @@ Here are some ideas to get you started:
 **Visualization E-Commers Pakistan**
 <br>
 <code><a href="https://public.tableau.com/app/profile/muhammad.al.farisy6147/viz/ProjectE-CommersPakistanDashboard/Dashboard1" target="_blank"><img height="200" src="https://github.com/mhdalfarisy/mhdalfarisy/blob/main/Dashboard%20Tableau.png"></a></code> 
-<br>
-
-**Data Analyst E-Commers Pakistan**
-<br>
 <code><a href="https://github.com/mhdalfarisy/EDA---Pakistan-s-Larges-Ecommers" target="_blank"><img height="200" src="https://github.com/mhdalfarisy/EDA---Pakistan-s-Larges-Ecommers/blob/main/Images/62253a402fccf.jpg"></a></code>
 <br>
 
