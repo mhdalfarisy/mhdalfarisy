@@ -65,4 +65,25 @@ Here are some ideas to get you started:
 
 ⭐️ From [Muhammad Al-farisy](https://github.com/mhdalfarisy)
 
+## Tech Stack :computer:
+
+<br>
+<table>
+<tbody>
+ <tr>
+<td align="center" width="20%">
+<span><b><center>ReactJS</center></b></span> 
+<img height=60px src="https://img.icons8.com/ultraviolet/2x/react.png"> 
+</td>
+
+<td align="center" width="20%">
+<span><b><center>Swift</center></b></span> 
+<img height=60px src="https://img.icons8.com/fluent/96/swift.png"> 
+</td>
+
+<td align="center" width="20%">
+<span><b><center>NodeJS</center></b></span> 
+<img height=60px src="https://img.icons8.com/color/2x/nodejs.png"> 
+</td>
+</tr>
 
