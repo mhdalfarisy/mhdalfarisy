@@ -54,7 +54,10 @@ Here are some ideas to get you started:
 <img height=100px src="https://github.com/mhdalfarisy/California-House-Price-Prediction-Using-Machine-Learning/blob/main/gambar/CA-Sales-Home-Volume.png">  
 </td>
 </tr>
+</tbody>
+</table>
 
+____
 <br>
 <br>
 <br>
