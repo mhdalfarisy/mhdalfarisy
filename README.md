@@ -31,12 +31,12 @@ Here are some ideas to get you started:
 <br>
 <br>
 **✨ Portfolio** <br>
-Visualization E-Commers Pakistan <br>
-<br>
+**Visualization E-Commers Pakistan** <br>
+
 <code><a href="https://public.tableau.com/app/profile/muhammad.al.farisy6147/viz/ProjectE-CommersPakistanDashboard/Dashboard1" target="_blank"><img height="200" src="https://github.com/mhdalfarisy/mhdalfarisy/blob/main/Dashboard%20Tableau.png"></a></code> 
 <br>
-Machine Learning California House Price Predict <br>
-<br>
+**Machine Learning California House Price Predict** <br>
+
 <code><a href="https://github.com/mhdalfarisy/California-House-Price-Prediction-Using-Machine-Learning" target="_blank"><img height="200" src="https://github.com/mhdalfarisy/California-House-Price-Prediction-Using-Machine-Learning/blob/main/gambar/CA-Sales-Home-Volume.png"></a></code>
 <br>
 <br>
