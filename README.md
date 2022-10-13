@@ -40,8 +40,7 @@ Here are some ideas to get you started:
 <br>
 
 **Data Analyst Employee Analysis Attrition Report** <br>
-<code><a href="https://github.com/mhdalfarisy/Employee-Analysis-Attrition-Report" target="_blank"><img height="200" src="https://github.com/mhdalfarisy/Employee-Analysis-Attrition-Report/blob/main/Aset/Reasons-Attrition1_large%20(1).jpg"></a></code>
-<br> **Machine Learning California House Price Predict** <br>
+<code><a href="https://github.com/mhdalfarisy/Employee-Analysis-Attrition-Report" target="_blank"><img height="200" src="https://github.com/mhdalfarisy/Employee-Analysis-Attrition-Report/blob/main/Aset/Reasons-Attrition1_large%20(1).jpg"></a></code>**Machine Learning California House Price Predict** <br>
 <code><a href="https://github.com/mhdalfarisy/California-House-Price-Prediction-Using-Machine-Learning" target="_blank"><img height="200" src="https://github.com/mhdalfarisy/California-House-Price-Prediction-Using-Machine-Learning/blob/main/gambar/CA-Sales-Home-Volume.png"></a></code>
 <br>
 <br>
