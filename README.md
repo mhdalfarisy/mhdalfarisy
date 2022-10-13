@@ -30,6 +30,7 @@ Here are some ideas to get you started:
 <code><a href="https://public.tableau.com/app/profile/muhammad.al.farisy6147" target="_blank"><img height="50" src="https://cdn.worldvectorlogo.com/logos/tableau-logo.svg"></a></code>
 <br>
 <br>
+
 **✨ Portfolio** <br>
 <br>
 <table>
@@ -53,7 +54,6 @@ Here are some ideas to get you started:
 <img height=100px src="https://github.com/mhdalfarisy/California-House-Price-Prediction-Using-Machine-Learning/blob/main/gambar/CA-Sales-Home-Volume.png">  
 </td>
 </tr>
-
 
 <br>
 <br>
