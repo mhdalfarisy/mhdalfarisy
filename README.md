@@ -2,7 +2,7 @@
 <h1> Hi, i'am Faris ! <img src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Hi.gif" width="50px"> </h1>
 <br>
 
-<img align="right" width="200" height="200" src="https://media-exp1.licdn.com/dms/image/C4D03AQHTT9_pSbXz5g/profile-displayphoto-shrink_200_200/0/1655456954982?e=1671062400&v=beta&t=PJssOuKNENzAMjnmc2jix-8fN8SPoULs91k279vkzjQ">
+<img align="right" width="500" height="500" src="https://shrinkdlink.com/wp-content/uploads/2022/06/1637779651.jpg">
 
 
 <!--
