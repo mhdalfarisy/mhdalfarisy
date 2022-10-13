@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 **✨ Visualization Data currently using** <br>
 <br>
 <code><a href="https://powerbi.microsoft.com/en-us/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg"></a></code>
-<code><a href="https://www.tableau.com/" target="_blank"><img height="50" src="https://cdn.worldvectorlogo.com/logos/tableau-logo.svg"></a></code>
+<code><a href="https://public.tableau.com/app/profile/muhammad.al.farisy6147" target="_blank"><img height="50" src="https://cdn.worldvectorlogo.com/logos/tableau-logo.svg"></a></code>
 <br>
 <br>
 <br>
