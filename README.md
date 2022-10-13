@@ -33,6 +33,7 @@ Here are some ideas to get you started:
 
 **✨ Portfolio** <br>
 <br>
+____
 <table>
 <tbody>
  <tr>
@@ -45,7 +46,7 @@ Here are some ideas to get you started:
 <td align="center" width="20%">
 <span><b><center>Data Analyst E-Commers Pakistan</center></b></span> 
 <code><a href="https://github.com/mhdalfarisy/EDA---Pakistan-s-Larges-Ecommers" target="_blank">
-<img height=10px src="https://github.com/mhdalfarisy/EDA---Pakistan-s-Larges-Ecommers/blob/main/Images/62253a402fccf.jpg"> 
+<img height=100px src="https://github.com/mhdalfarisy/EDA---Pakistan-s-Larges-Ecommers/blob/main/Images/62253a402fccf.jpg"> 
 </td>
 
 <td align="center" width="20%">
@@ -56,7 +57,6 @@ Here are some ideas to get you started:
 </tr>
 </tbody>
 </table>
-
 ____
 <br>
 <br>
