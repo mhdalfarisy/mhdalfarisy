@@ -51,7 +51,7 @@ ____
 </td>
 
 <td align="center" width="20%">
-<span><b><center>Machine Learning House Price Predict</center></b></span> 
+<span><b><center>California House Price Predict</center></b></span> 
 <code><a href="https://github.com/mhdalfarisy/California-House-Price-Prediction-Using-Machine-Learnin" target="_blank">
 <img height=100px src="https://github.com/mhdalfarisy/California-House-Price-Prediction-Using-Machine-Learning/blob/main/gambar/CA-Sales-Home-Volume.png">  
 </td>
