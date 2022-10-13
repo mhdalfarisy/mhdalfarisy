@@ -74,12 +74,13 @@ Here are some ideas to get you started:
 <td align="center" width="20%">
 <span><b><center>ReactJS</center></b></span>
 <code><a href="https://public.tableau.com/app/profile/muhammad.al.farisy6147/viz/ProjectE-CommersPakistanDashboard/Dashboard1" target="_blank">
-<img height=60px src="https://img.icons8.com/ultraviolet/2x/react.png"> 
+<img height=60px src="https://github.com/mhdalfarisy/mhdalfarisy/blob/main/Dashboard%20Tableau.png"> 
 </td>
 
 <td align="center" width="20%">
 <span><b><center>Swift</center></b></span> 
-<img height=60px src="https://img.icons8.com/fluent/96/swift.png"> 
+<code><a href="https://github.com/mhdalfarisy/EDA---Pakistan-s-Larges-Ecommers" target="_blank">=z
+<img height=60px src="https://github.com/mhdalfarisy/EDA---Pakistan-s-Larges-Ecommers/blob/main/Images/62253a402fccf.jpg"> 
 </td>
 
 <td align="center" width="20%">
