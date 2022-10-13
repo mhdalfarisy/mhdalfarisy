@@ -38,6 +38,9 @@ Here are some ideas to get you started:
 **Machine Learning California House Price Predict** <br>
 <code><a href="https://github.com/mhdalfarisy/California-House-Price-Prediction-Using-Machine-Learning" target="_blank"><img height="200" src="https://github.com/mhdalfarisy/California-House-Price-Prediction-Using-Machine-Learning/blob/main/gambar/CA-Sales-Home-Volume.png"></a></code>
 
+**Data Analyst E-Commers Pakistan** <br>
+<code><a href="https://github.com/mhdalfarisy/EDA---Pakistan-s-Larges-Ecommers" target="_blank"><img height="200" src="https://github.com/mhdalfarisy/EDA---Pakistan-s-Larges-Ecommers/blob/main/Images/62253a402fccf.jpg"></a></code>
+
 <br>
 <br>
 **💬 Ask me about anything, I'll be happy to help!** <br>
