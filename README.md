@@ -83,8 +83,8 @@ Here are some ideas to get you started:
 <img height=60px src="https://github.com/mhdalfarisy/EDA---Pakistan-s-Larges-Ecommers/blob/main/Images/62253a402fccf.jpg"> 
 </td>
 
-<td align="Machine Learning California House Price Predict" width="20%">
-<span><b><center>NodeJS</center></b></span> 
+<td align="center" width="20%">
+<span><b><center>Machine Learning California House Price Predict</center></b></span> 
 <code><a href="https://github.com/mhdalfarisy/California-House-Price-Prediction-Using-Machine-Learnin" target="_blank">
 <img height=60px src="https://github.com/mhdalfarisy/California-House-Price-Prediction-Using-Machine-Learning/blob/main/gambar/CA-Sales-Home-Volume.png">  
 </td>
