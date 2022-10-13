@@ -29,7 +29,8 @@ Here are some ideas to get you started:
 <br>
 <br>
 **✨ Portfolio** <br>
-<code><a href="https://public.tableau.com/app/profile/muhammad.al.farisy6147/viz/ProjectE-CommersPakistanDashboard/Dashboard1" target="_blank"><img height="500" src="https://github.com/mhdalfarisy/mhdalfarisy/blob/main/Dashboard%20Tableau.png"></a></code>
+## Visualization E-Commers Pakistan
+<code><a href="https://public.tableau.com/app/profile/muhammad.al.farisy6147/viz/ProjectE-CommersPakistanDashboard/Dashboard1" target="_blank"><img height="300" src="https://github.com/mhdalfarisy/mhdalfarisy/blob/main/Dashboard%20Tableau.png"></a></code>
 
 <br>
 <br>
