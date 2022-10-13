@@ -37,16 +37,17 @@ ____
 <table>
 <tbody>
  <tr>
-<td align="center" width="20%">
-<span><b><center>Visualization E-Commers Pakistan</center></b></span>
-<code><a href="https://public.tableau.com/app/profile/muhammad.al.farisy6147/viz/ProjectE-CommersPakistanDashboard/Dashboard1" target="_blank">
-<img height=100px src="https://github.com/mhdalfarisy/mhdalfarisy/blob/main/Dashboard%20Tableau.png"> 
-</td>
-
+ 
 <td align="center" width="20%">
 <span><b><center>Data Analyst E-Commers Pakistan</center></b></span> 
 <code><a href="https://github.com/mhdalfarisy/EDA---Pakistan-s-Larges-Ecommers" target="_blank">
 <img height=100px src="https://github.com/mhdalfarisy/EDA---Pakistan-s-Larges-Ecommers/blob/main/Images/62253a402fccf.jpg"> 
+</td>
+  
+<td align="center" width="20%">
+<span><b><center>Visualization E-Commers Pakistan</center></b></span>
+<code><a href="https://public.tableau.com/app/profile/muhammad.al.farisy6147/viz/ProjectE-CommersPakistanDashboard/Dashboard1" target="_blank">
+<img height=100px src="https://github.com/mhdalfarisy/mhdalfarisy/blob/main/Dashboard%20Tableau.png"> 
 </td>
 
 <td align="center" width="20%">
