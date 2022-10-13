@@ -2,7 +2,7 @@
 <h1> Hi, i'am Faris ! <img src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Hi.gif" width="50px"> </h1>
 <br>
 
-<img align="right" width="400" height="200" src="https://media-exp1.licdn.com/dms/image/C4D03AQHTT9_pSbXz5g/profile-displayphoto-shrink_200_200/0/1655456954982?e=1671062400&v=beta&t=PJssOuKNENzAMjnmc2jix-8fN8SPoULs91k279vkzjQ">
+<img align="right" width="200" height="200" src="https://media-exp1.licdn.com/dms/image/C4D03AQHTT9_pSbXz5g/profile-displayphoto-shrink_200_200/0/1655456954982?e=1671062400&v=beta&t=PJssOuKNENzAMjnmc2jix-8fN8SPoULs91k279vkzjQ">
 
 
 <!--
@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 **✨ Visualization Data currently using** <br>
 <br>
 <code><a href="https://powerbi.microsoft.com/en-us/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg"></a></code>
-<code><a href="https://public.tableau.com/app/profile/muhammad.al.farisy6147" target="_blank"><img height="20" src="https://cdn.worldvectorlogo.com/logos/tableau-logo.svg"></a></code>
+<code><a href="https://public.tableau.com/app/profile/muhammad.al.farisy6147" target="_blank"><img height="40" src="https://cdn.worldvectorlogo.com/logos/tableau-logo.svg"></a></code>
 <br>
 <br>
 
