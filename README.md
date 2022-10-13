@@ -56,10 +56,11 @@ ____
 <img height=100px src="https://github.com/mhdalfarisy/California-House-Price-Prediction-Using-Machine-Learning/blob/main/gambar/CA-Sales-Home-Volume.png">  
 </td>
 </tr>
-____
+
 </tbody>
 </table>
-
+ <tr>
+____
  
  
 <br>
