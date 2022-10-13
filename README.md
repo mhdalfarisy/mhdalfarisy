@@ -57,10 +57,7 @@ ____
 </td>
 </tr>
 </tbody>
-</table>
-<br>
-____
- 
+</table> 
 <br>
 <br>
 <br>
