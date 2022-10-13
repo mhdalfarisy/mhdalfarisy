@@ -37,7 +37,7 @@ Visualization E-Commers Pakistan <br>
 <br>
 Machine Learning California House Price Predict <br>
 <br>
-<code><a href="https://github.com/mhdalfarisy/California-House-Price-Prediction-Using-Machine-Learning" target="_blank"><img align="left" width="400" height="200" src="https://github.com/mhdalfarisy/California-House-Price-Prediction-Using-Machine-Learning/blob/main/gambar/CA-Sales-Home-Volume.png"></a></code>
+<code><a href="https://github.com/mhdalfarisy/California-House-Price-Prediction-Using-Machine-Learning" target="_blank"><img height="200" src="https://github.com/mhdalfarisy/California-House-Price-Prediction-Using-Machine-Learning/blob/main/gambar/CA-Sales-Home-Volume.png"></a></code>
 <br>
 <br>
 **💬 Ask me about anything, I'll be happy to help!** <br>
