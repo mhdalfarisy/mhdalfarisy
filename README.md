@@ -43,7 +43,7 @@ ____
 <td align="center" width="30%">
 <span><b><center>Visualization E-Commers Pakistan</center></b></span>
 <code><a href="https://public.tableau.com/app/profile/muhammad.al.farisy6147/viz/ProjectE-CommersPakistanDashboard/Dashboard1" target="_blank">
-<img height=200px src="https://github.com/mhdalfarisy/mhdalfarisy/blob/main/Dashboard%20Tableau.png"> 
+<img height=200px src="https://github.com/mhdalfarisy/Employee-Analysis-Attrition-Report/blob/main/Aset/Dashboard%201%20(2).png"> 
 </td>
 
 <td align="center" width="30%">
