@@ -57,7 +57,7 @@ ____
 <td align="center" width="30%">
 <span><b><center>Data Analyst Employee Attrition</center></b></span> 
 <code><a href="https://github.com/mhdalfarisy/Employee-Analysis-Attrition-Report" target="_blank">
-<img height=200px src="https://github.com/mhdalfarisy/Employee-Analysis-Attrition-Report/blob/main/Aset/Reasons-Attrition1_large%20(1).jpg"> 
+<img height=200px src="https://github.com/mhdalfarisy/EDA---Pakistan-s-Larges-Ecommers/blob/main/Images/Dashboard%201%20(1).png"> 
 </td>
 
 <td align="center" width="30%">
