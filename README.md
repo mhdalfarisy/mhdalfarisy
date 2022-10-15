@@ -55,19 +55,19 @@ ____
 
 <!-- <tr> -->
 <td align="center" width="20%">
-<span><b><center>Data Analyst Employee Analysis Attrition</center></b></span> 
+<span><b><center>Data Analyst Employee Attrition</center></b></span> 
 <code><a href="https://github.com/mhdalfarisy/Employee-Analysis-Attrition-Report" target="_blank">
 <img height=100px src="https://github.com/mhdalfarisy/Employee-Analysis-Attrition-Report/blob/main/Aset/Reasons-Attrition1_large%20(1).jpg"> 
 </td>
 
 <td align="center" width="20%">
-<span><b><center>Visualization Employee Analysis Attrition</center></b></span> 
+<span><b><center>Visualization Employee Attrition</center></b></span> 
 <code><a href="https://public.tableau.com/app/profile/muhammad.al.farisy6147/viz/ProjectHumanResourceAttritionAnalysisDashboard/Dashboard1?publish=yes" target="_blank">
 <img height=100px src="https://github.com/mhdalfarisy/Employee-Analysis-Attrition-Report/blob/main/Aset/Dashboard%201%20(1).png"> 
 </td>
 
 <td align="center" width="20%">
-<span><b><center>Machine Learning Employee Analysis Attrition</center></b></span> 
+<span><b><center>Machine Learning Employee Attrition</center></b></span> 
 <code><a href="https://public.tableau.com/app/profile/muhammad.al.farisy6147/viz/ProjectHumanResourceAttritionAnalysisDashboard/Dashboard1?publish=yes" target="_blank">
 <img height=100px src="https://github.com/mhdalfarisy/Employee-Analysis-Attrition-Report/blob/main/Aset/0x0.jpg"> 
 </td>
