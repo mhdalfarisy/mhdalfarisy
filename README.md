@@ -69,7 +69,7 @@ ____
 <td align="center" width="20%">
 <span><b><center>Machine Learning Employee Analysis Attrition</center></b></span> 
 <code><a href="https://public.tableau.com/app/profile/muhammad.al.farisy6147/viz/ProjectHumanResourceAttritionAnalysisDashboard/Dashboard1?publish=yes" target="_blank">
-<img height=65px src="https://www.devteam.space/wp-content/uploads/2018/03/jenkins.jpg"> 
+<img height=100px src="https://github.com/mhdalfarisy/Employee-Analysis-Attrition-Report/blob/main/Aset/attrition-760.jpg"> 
 </td>
 </tr>
 
