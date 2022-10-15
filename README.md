@@ -34,42 +34,42 @@ ____
 <tbody>
  <tr>
  
-<td align="center" width="20%">
+<td align="center" width="30%">
 <span><b><center>Data Analyst E-Commers Pakistan</center></b></span> 
 <code><a href="https://github.com/mhdalfarisy/EDA---Pakistan-s-Larges-Ecommers" target="_blank">
-<img height=100px src="https://github.com/mhdalfarisy/EDA---Pakistan-s-Larges-Ecommers/blob/main/Images/62253a402fccf.jpg"> 
+<img height=200px src="https://github.com/mhdalfarisy/EDA---Pakistan-s-Larges-Ecommers/blob/main/Images/62253a402fccf.jpg"> 
 </td>
   
-<td align="center" width="20%">
+<td align="center" width="30%">
 <span><b><center>Visualization E-Commers Pakistan</center></b></span>
 <code><a href="https://public.tableau.com/app/profile/muhammad.al.farisy6147/viz/ProjectE-CommersPakistanDashboard/Dashboard1" target="_blank">
-<img height=100px src="https://github.com/mhdalfarisy/mhdalfarisy/blob/main/Dashboard%20Tableau.png"> 
+<img height=200px src="https://github.com/mhdalfarisy/mhdalfarisy/blob/main/Dashboard%20Tableau.png"> 
 </td>
 
-<td align="center" width="20%">
+<td align="center" width="30%">
 <span><b><center>Machine Learning California House Price</center></b></span> 
 <code><a href="https://github.com/mhdalfarisy/California-House-Price-Prediction-Using-Machine-Learnin" target="_blank">
-<img height=100px src="https://github.com/mhdalfarisy/California-House-Price-Prediction-Using-Machine-Learning/blob/main/gambar/CA-Sales-Home-Volume.png">  
+<img height=200px src="https://github.com/mhdalfarisy/California-House-Price-Prediction-Using-Machine-Learning/blob/main/gambar/CA-Sales-Home-Volume.png">  
 </td>
 </tr>
 
 <!-- <tr> -->
-<td align="center" width="20%">
+<td align="center" width="30%">
 <span><b><center>Data Analyst Employee Attrition</center></b></span> 
 <code><a href="https://github.com/mhdalfarisy/Employee-Analysis-Attrition-Report" target="_blank">
-<img height=100px src="https://github.com/mhdalfarisy/Employee-Analysis-Attrition-Report/blob/main/Aset/Reasons-Attrition1_large%20(1).jpg"> 
+<img height=200px src="https://github.com/mhdalfarisy/Employee-Analysis-Attrition-Report/blob/main/Aset/Reasons-Attrition1_large%20(1).jpg"> 
 </td>
 
-<td align="center" width="20%">
+<td align="center" width="30%">
 <span><b><center>Visualization Employee Attrition</center></b></span> 
 <code><a href="https://public.tableau.com/app/profile/muhammad.al.farisy6147/viz/ProjectHumanResourceAttritionAnalysisDashboard/Dashboard1?publish=yes" target="_blank">
-<img height=100px src="https://github.com/mhdalfarisy/Employee-Analysis-Attrition-Report/blob/main/Aset/Dashboard%201%20(1).png"> 
+<img height=200px src="https://github.com/mhdalfarisy/Employee-Analysis-Attrition-Report/blob/main/Aset/Dashboard%201%20(1).png"> 
 </td>
 
-<td align="center" width="20%">
+<td align="center" width="30%">
 <span><b><center>Machine Learning Employee Attrition</center></b></span> 
 <code><a href="https://public.tableau.com/app/profile/muhammad.al.farisy6147/viz/ProjectHumanResourceAttritionAnalysisDashboard/Dashboard1?publish=yes" target="_blank">
-<img height=100px src="https://github.com/mhdalfarisy/Employee-Analysis-Attrition-Report/blob/main/Aset/0x0.jpg"> 
+<img height=200px src="https://github.com/mhdalfarisy/Employee-Analysis-Attrition-Report/blob/main/Aset/0x0.jpg"> 
 </td>
 </tr>
 
