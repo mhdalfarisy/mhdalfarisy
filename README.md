@@ -54,22 +54,22 @@ ____
 </tr>
 
 <!-- <tr> -->
-<td align="center" width="40%">
+<td align="center" width="20%">
 <span><b><center>Data Analyst Employee Analysis Attrition</center></b></span> 
 <code><a href="https://github.com/mhdalfarisy/Employee-Analysis-Attrition-Report" target="_blank">
 <img height=65px src="https://github.com/mhdalfarisy/Employee-Analysis-Attrition-Report/blob/main/Aset/Reasons-Attrition1_large%20(1).jpg"> 
 </td>
 
-<td align="center" width="40%">
+<td align="center" width="20%">
 <span><b><center>Visualization Employee Analysis Attrition</center></b></span> 
 <code><a href="https://public.tableau.com/app/profile/muhammad.al.farisy6147/viz/ProjectHumanResourceAttritionAnalysisDashboard/Dashboard1?publish=yes" target="_blank">
-<img height=65px src="https://github.com/mhdalfarisy/Employee-Analysis-Attrition-Report/blob/main/Aset/Dashboard%201%20(1).png"> 
+<img height=85px src="https://github.com/mhdalfarisy/Employee-Analysis-Attrition-Report/blob/main/Aset/Dashboard%201%20(1).png"> 
 </td>
 
-<!-- <td align="center" width="20%">
+<td align="center" width="20%">
 <span><b><center>Visualization Employee Analysis Attrition</center></b></span> 
 <code><a href="https://public.tableau.com/app/profile/muhammad.al.farisy6147/viz/ProjectHumanResourceAttritionAnalysisDashboard/Dashboard1?publish=yes" target="_blank">
-<img height=65px src="https://www.devteam.space/wp-content/uploads/2018/03/jenkins.jpg">  -->
+<img height=65px src="https://www.devteam.space/wp-content/uploads/2018/03/jenkins.jpg"> 
 </td>
 </tr>
 
