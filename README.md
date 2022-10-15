@@ -43,7 +43,7 @@ ____
 <td align="center" width="30%">
 <span><b><center>Visualization E-Commers Pakistan</center></b></span>
 <code><a href="https://public.tableau.com/app/profile/muhammad.al.farisy6147/viz/ProjectE-CommersPakistanDashboard/Dashboard1" target="_blank">
-<img height=200px src="https://github.com/mhdalfarisy/Employee-Analysis-Attrition-Report/blob/main/Aset/Dashboard%201%20(2).png"> 
+<img height=200px src="https://github.com/mhdalfarisy/EDA---Pakistan-s-Larges-Ecommers/blob/main/Images/Dashboard%201%20(1).png"> 
 </td>
 
 <td align="center" width="30%">
@@ -57,7 +57,7 @@ ____
 <td align="center" width="30%">
 <span><b><center>Data Analyst Employee Attrition</center></b></span> 
 <code><a href="https://github.com/mhdalfarisy/Employee-Analysis-Attrition-Report" target="_blank">
-<img height=200px src="https://github.com/mhdalfarisy/EDA---Pakistan-s-Larges-Ecommers/blob/main/Images/Dashboard%201%20(1).png"> 
+<img height=200px src="https://github.com/mhdalfarisy/Employee-Analysis-Attrition-Report/blob/main/Aset/Reasons-Attrition1_large%20(1).jpg"> 
 </td>
 
 <td align="center" width="30%">
