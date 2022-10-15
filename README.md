@@ -53,10 +53,11 @@ ____
 </td>
 </tr>
 
-<tr>
+<!-- <tr> -->
 <td align="center" width="20%">
-<span><b><center>Flask</center></b></span> 
-<img height=65px src="https://www.pngitem.com/pimgs/m/159-1595977_flask-python-logo-hd-png-download.png"> 
+<span><b><center>Data Analyst Employee Analysis Attrition Report</center></b></span> 
+<code><a href="https://github.com/mhdalfarisy/Employee-Analysis-Attrition-Report" target="_blank">
+<img height=65px src="https://github.com/mhdalfarisy/Employee-Analysis-Attrition-Report/blob/main/Aset/Reasons-Attrition1_large%20(1).jpg"> 
 </td>
 
 <td align="center" width="20%">
