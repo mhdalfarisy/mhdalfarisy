@@ -47,7 +47,7 @@ ____
 </td>
 
 <td align="center" width="20%">
-<span><b><center>Machine Learning California House Price Predict</center></b></span> 
+<span><b><center>Machine Learning California House Price</center></b></span> 
 <code><a href="https://github.com/mhdalfarisy/California-House-Price-Prediction-Using-Machine-Learnin" target="_blank">
 <img height=100px src="https://github.com/mhdalfarisy/California-House-Price-Prediction-Using-Machine-Learning/blob/main/gambar/CA-Sales-Home-Volume.png">  
 </td>
@@ -61,13 +61,13 @@ ____
 </td>
 
 <td align="center" width="20%">
-<span><b><left>Visualization Employee Analysis Attrition</left></b></span> 
+<span><b><center>Visualization Employee Analysis Attrition</center></b></span> 
 <code><a href="https://public.tableau.com/app/profile/muhammad.al.farisy6147/viz/ProjectHumanResourceAttritionAnalysisDashboard/Dashboard1?publish=yes" target="_blank">
 <img height=100px src="https://github.com/mhdalfarisy/Employee-Analysis-Attrition-Report/blob/main/Aset/Dashboard%201%20(1).png"> 
 </td>
 
 <td align="center" width="20%">
-<span><b><center>Visualization Employee Analysis Attrition Predict</center></b></span> 
+<span><b><center>Machine Learning Employee Analysis Attrition</center></b></span> 
 <code><a href="https://public.tableau.com/app/profile/muhammad.al.farisy6147/viz/ProjectHumanResourceAttritionAnalysisDashboard/Dashboard1?publish=yes" target="_blank">
 <img height=65px src="https://www.devteam.space/wp-content/uploads/2018/03/jenkins.jpg"> 
 </td>
