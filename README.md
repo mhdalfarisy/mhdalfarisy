@@ -61,8 +61,9 @@ ____
 </td>
 
 <td align="center" width="20%">
-<span><b><center>Git</center></b></span> 
-<img height=65px src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png"> 
+<span><b><center>Visualization Employee Analysis Attrition</center></b></span> 
+<code><a href="https://public.tableau.com/app/profile/muhammad.al.farisy6147/viz/ProjectHumanResourceAttritionAnalysisDashboard/Dashboard1?publish=yes" target="_blank">
+<img height=65px src="https://github.com/mhdalfarisy/Employee-Analysis-Attrition-Report/blob/main/Aset/Dashboard%201%20(1).png"> 
 </td>
 
 <td align="center" width="20%">
