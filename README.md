@@ -53,6 +53,23 @@ ____
 </td>
 </tr>
 
+<tr>
+<td align="center" width="20%">
+<span><b><center>Flask</center></b></span> 
+<img height=65px src="https://www.pngitem.com/pimgs/m/159-1595977_flask-python-logo-hd-png-download.png"> 
+</td>
+
+<td align="center" width="20%">
+<span><b><center>Git</center></b></span> 
+<img height=65px src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png"> 
+</td>
+
+<td align="center" width="20%">
+<span><b><center>Jenkins</center></b></span> 
+<img height=65px src="https://www.devteam.space/wp-content/uploads/2018/03/jenkins.jpg"> 
+</td>
+</tr>
+
 </tbody>
 </table>
  <tr>
@@ -73,7 +90,8 @@ ____
     <img align="left" alt="Piyush Pravin | Instagram" width="26px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />
   </a>
   <a href="https://www.instagram.com/inifaris_____/">
-    <img align="left" alt="Piyush Pravin | Instagram" width="24px" src="https://cdn.worldvectorlogo.com/logos/instagram-5.svg" />
+    <img align="left" alt="Muhammad Al-farisy | Instagram" width="24px" src="https://cdn.worldvectorlogo.com/logos/instagram-5.svg" />
+    
   </a>
 <br>
 <br>
