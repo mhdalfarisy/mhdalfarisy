@@ -19,13 +19,16 @@ Here are some ideas to get you started:
 <code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
 <br>
 <br>
-<br>
-## **✨ Visualization Data currently using** <br>
+
+# **✨ Visualization Data currently using** <br>
+
 <br>
 <code><a href="https://powerbi.microsoft.com/en-us/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg"></a></code>
 <code><a href="https://public.tableau.com/app/profile/muhammad.al.farisy6147" target="_blank"><img height="40" src="https://cdn.worldvectorlogo.com/logos/tableau-logo.svg"></a></code>
 <br>
+
 # **✨ Project** <br>
+
 <br>
 ____
 <table>
