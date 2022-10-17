@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 **🌱 I’m can contribute working on Data Analyst and Machine Learning**
 <br>
 <br>
-**✨ Tech stacks currently using** <br>
+# **✨ Tech stacks currently using** <br>
 <br>
 <code><a href="https://code.visualstudio.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></a></code>
 <code><a href="https://jupyter.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></a></code>
@@ -20,14 +20,12 @@ Here are some ideas to get you started:
 <br>
 <br>
 <br>
-**✨ Visualization Data currently using** <br>
+## **✨ Visualization Data currently using** <br>
 <br>
 <code><a href="https://powerbi.microsoft.com/en-us/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg"></a></code>
 <code><a href="https://public.tableau.com/app/profile/muhammad.al.farisy6147" target="_blank"><img height="40" src="https://cdn.worldvectorlogo.com/logos/tableau-logo.svg"></a></code>
 <br>
-<br>
-
-**✨ Project** <br>
+# **✨ Project** <br>
 <br>
 ____
 <table>
