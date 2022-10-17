@@ -70,7 +70,7 @@ ____
 <td align="center" width="30%">
 <span><b><center>Clustering Customer Personality Analysis</center></b></span> 
 <code><a href="https://public.tableau.com/app/profile/muhammad.al.farisy6147/viz/ProjectHumanResourceAttritionAnalysisDashboard/Dashboard1?publish=yes" target="_blank">
-<img height=200px src="https://github.com/mhdalfarisy/Customer-Personality-Analysis/blob/main/Asset/7832-977818-NfHoVsXm-1200x600.jpg"> 
+<img height=200px src="https://github.com/mhdalfarisy/Customer-Personality-Analysis/blob/main/Asset/CustomerEngagement1.jpg"> 
 </td>
 </tr>
 
