@@ -1,5 +1,3 @@
-<h1><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHXdWRs8s4G-PptKhat3-clRMstugmQ91edTxdznBOX7ezGSyw5iFTjrKzpJ7p98ADtw&usqp=CAU" height=400px width="1000px"> </h1>
-<br>
 <h1> Hi, i'am Faris ! <img src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Hi.gif" width="50px"> </h1>
 <br>
 
