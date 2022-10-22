@@ -10,34 +10,31 @@ Here are some ideas to get you started:
 **🌱 I’m can contribute working on Data Analyst and Machine Learning**
 <br>
 <br>
-### **✨ Tech stacks currently using** <br>
-<br>
+
+**✨ Tech stacks currently using** <br>
+
+
 <code><a href="https://code.visualstudio.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></a></code>
 <code><a href="https://jupyter.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></a></code>
 <code><a href="https://www.mysql.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></a></code>
 <code><a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target="_blank"><img height="50" src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server-1.svg"></a></code>
 <code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
-<br>
-<br>
 
-### **✨ Visualization Data currently using** <br>
 
-<br>
+**✨ Visualization Data currently using** <br>
+
 <code><a href="https://powerbi.microsoft.com/en-us/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg"></a></code>
 <code><a href="https://public.tableau.com/app/profile/muhammad.al.farisy6147" target="_blank"><img height="40" src="https://cdn.worldvectorlogo.com/logos/tableau-logo.svg"></a></code>
 <br>
 
-### **✨ Project** <br>
-#### *If want to see this portfolio, please click on the image :*
+**✨ Project** <br>
 
 <br>
 <table>
 <tbody>
  <tr>
 
-
-
-#### Data Analyst
+<h1 align="center">Data Analyst</h1>
   
 <td align="center" width="50%">
 <span><b><Left>E-Commers Pakistan</center></b></span> 
@@ -58,7 +55,8 @@ Here are some ideas to get you started:
 <tbody>
  <tr>
  
-#### Machine Learning
+<h1 align="center">Machine Learning</h1>
+
 <td align="center" width="30%">
 <span><b><center>California House Price</center></b></span> 
 <code><a href="https://github.com/mhdalfarisy/California-House-Price-Prediction-Using-Machine-Learning" target="_blank">
@@ -82,7 +80,7 @@ Here are some ideas to get you started:
 <tbody>
  <tr>
 
-#### Data Visualization
+<h1 align="center">Data Visualization</h1>
 
 <td align="center" width="50%">
 <span><b><center>Visualization E-Commers Pakistan</center></b></span> 
@@ -100,13 +98,15 @@ Here are some ideas to get you started:
 </tbody>
 </table>
  <tr>
-  
-  
-  
-  
-  
+
+<h1 align="center">Others Data Visualization Report</h1>
+
 <br>
+<code><a href="https://public.tableau.com/app/profile/muhammad.al.farisy6147" target="_blank"><img height="300" src="https://github.com/mhdalfarisy/mhdalfarisy/blob/main/tol_devices_optimized.png"></a></code>
 <br>
+
+<br>
+
 **💬 Ask me about anything, I'll be happy to help!** <br>
 **💬 My inbox is always open, Contact me**
 <br>
