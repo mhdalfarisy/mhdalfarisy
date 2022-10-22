@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 **🌱 I’m can contribute working on Data Analyst and Machine Learning**
 <br>
 <br>
-# **✨ Tech stacks currently using** <br>
+### **✨ Tech stacks currently using** <br>
 <br>
 <code><a href="https://code.visualstudio.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></a></code>
 <code><a href="https://jupyter.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></a></code>
@@ -20,68 +20,91 @@ Here are some ideas to get you started:
 <br>
 <br>
 
-# **✨ Visualization Data currently using** <br>
+### **✨ Visualization Data currently using** <br>
 
 <br>
 <code><a href="https://powerbi.microsoft.com/en-us/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg"></a></code>
 <code><a href="https://public.tableau.com/app/profile/muhammad.al.farisy6147" target="_blank"><img height="40" src="https://cdn.worldvectorlogo.com/logos/tableau-logo.svg"></a></code>
 <br>
 
-# **✨ Project** <br>
+### **✨ Project** <br>
+#### *If want to see this portfolio, please click on the image :*
 
 <br>
-____
 <table>
 <tbody>
  <tr>
 
-# Data Analyst
 
-<td align="center" width="30%">
-<span><b><center>Data Analyst E-Commers Pakistan</center></b></span> 
-<code><a href="https://github.com/mhdalfarisy/EDA---Pakistan-s-Larges-Ecommers" target="_blank">
-<img height=200px src="https://github.com/mhdalfarisy/EDA---Pakistan-s-Larges-Ecommers/blob/main/Images/62253a402fccf.jpg"> 
-</td>
+
+#### Data Analyst
   
-<td align="center" width="30%">
-<span><b><center>Visualization E-Commers Pakistan</center></b></span>
-<code><a href="https://public.tableau.com/app/profile/muhammad.al.farisy6147/viz/ProjectE-CommersPakistanDashboard/Dashboard1" target="_blank">
-<img height=200px src="https://github.com/mhdalfarisy/EDA---Pakistan-s-Larges-Ecommers/blob/main/Images/Dashboard%201%20(1).png"> 
+<td align="center" width="50%">
+<span><b><Left>E-Commers Pakistan</center></b></span> 
+<code><a href="https://github.com/mhdalfarisy/EDA---Pakistan-s-Larges-Ecommers" target="_blank">
+<img height=250px src="https://github.com/mhdalfarisy/EDA---Pakistan-s-Larges-Ecommers/blob/main/Images/62253a402fccf.jpg"> 
 </td>
-
-<td align="center" width="30%">
-<span><b><center>Machine Learning California House Price</center></b></span> 
-<code><a href="https://github.com/mhdalfarisy/California-House-Price-Prediction-Using-Machine-Learnin" target="_blank">
-<img height=200px src="https://github.com/mhdalfarisy/California-House-Price-Prediction-Using-Machine-Learning/blob/main/gambar/CA-Sales-Home-Volume.png">  
-</td>
-</tr>
-
 <!-- <tr> -->
-<td align="center" width="30%">
-<span><b><center>Data Analyst Employee Attrition</center></b></span> 
+<td align="center" width="50%">
+<span><b><Left>Employee Attrition</center></b></span> 
 <code><a href="https://github.com/mhdalfarisy/Employee-Analysis-Attrition-Report" target="_blank">
-<img height=200px src="https://github.com/mhdalfarisy/Employee-Analysis-Attrition-Report/blob/main/Aset/Reasons-Attrition1_large%20(1).jpg"> 
+<img height=250px src="https://github.com/mhdalfarisy/Employee-Analysis-Attrition-Report/blob/main/Aset/Reasons-Attrition1_large%20(1).jpg"> 
 </td>
-
-<td align="center" width="30%">
-<span><b><center>Visualization Employee Attrition</center></b></span> 
-<code><a href="https://public.tableau.com/app/profile/muhammad.al.farisy6147/viz/ProjectHumanResourceAttritionAnalysisDashboard/Dashboard1?publish=yes" target="_blank">
-<img height=200px src="https://github.com/mhdalfarisy/Employee-Analysis-Attrition-Report/blob/main/Aset/Dashboard%201%20(1).png"> 
-</td>
-
-<td align="center" width="30%">
-<span><b><center>Machine Learning Telco Customer Churn</center></b></span> 
-<code><a href="https://github.com/mhdalfarisy/Telco-Customer-Churn-Predict" target="_blank">
-<img height=200px src="https://github.com/mhdalfarisy/mhdalfarisy/blob/main/7-Strategies-To-Reduce-Customer-Churn-Rate.png"> 
-</td>
-</tr>
-
 </tbody>
 </table>
  <tr>
-____
+<br>
+<table>
+<tbody>
+ <tr>
  
+#### Machine Learning
+<td align="center" width="30%">
+<span><b><center>California House Price</center></b></span> 
+<code><a href="https://github.com/mhdalfarisy/California-House-Price-Prediction-Using-Machine-Learning" target="_blank">
+<img height=200px src="https://github.com/mhdalfarisy/California-House-Price-Prediction-Using-Machine-Learning/blob/main/gambar/CA-Sales-Home-Volume.png"> 
+</td>
+
+<!-- <tr> -->
+<td align="center" width="30%">
+<span><b><center>Telco Customer Churn</center></b></span> 
+<code><a href="https://github.com/mhdalfarisy/Telco-Customer-Churn-Predict" target="_blank">
+<img height=200px src="https://github.com/mhdalfarisy/mhdalfarisy/blob/main/7-Strategies-To-Reduce-Customer-Churn-Rate.png"> 
+</td>
  
+</tbody>
+</table>
+ <tr>
+  
+<br>
+
+<table>
+<tbody>
+ <tr>
+
+#### Data Visualization
+
+<td align="center" width="50%">
+<span><b><center>Visualization E-Commers Pakistan</center></b></span> 
+<code><a href="https://public.tableau.com/app/profile/muhammad.al.farisy6147/viz/ProjectE-CommersPakistanDashboard/Dashboard1" target="_blank">
+<img height=400px src="https://github.com/mhdalfarisy/EDA---Pakistan-s-Larges-Ecommers/blob/main/Images/Dashboard%201%20(1).png"> 
+</td>
+ 
+<!-- <tr> -->
+<td align="center" width="50%">
+<span><b><center>Visualization Employee Attrition Report</center></b></span> 
+<code><a href="https://public.tableau.com/app/profile/muhammad.al.farisy6147/viz/ProjectHumanResourceAttritionAnalysisDashboard/Dashboard1" target="_blank">
+<img height=400px src="https://github.com/mhdalfarisy/Employee-Analysis-Attrition-Report/blob/main/Aset/Dashboard%201%20(1).png"> 
+</td>
+ 
+</tbody>
+</table>
+ <tr>
+  
+  
+  
+  
+  
 <br>
 <br>
 **💬 Ask me about anything, I'll be happy to help!** <br>
