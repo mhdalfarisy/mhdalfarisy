@@ -68,9 +68,9 @@ ____
 </td>
 
 <td align="center" width="30%">
-<span><b><center>Clustering Customer Personality Analysis</center></b></span> 
+<span><b><center>Telco Customer Churn Predict</center></b></span> 
 <code><a href="https://public.tableau.com/app/profile/muhammad.al.farisy6147/viz/ProjectHumanResourceAttritionAnalysisDashboard/Dashboard1?publish=yes" target="_blank">
-<img height=200px src="https://github.com/mhdalfarisy/Customer-Personality-Analysis/blob/main/Asset/CustomerEngagement1.jpg"> 
+<img height=200px src="https://github.com/mhdalfarisy/mhdalfarisy/blob/main/7-Strategies-To-Reduce-Customer-Churn-Rate.png"> 
 </td>
 </tr>
 
