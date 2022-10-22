@@ -68,7 +68,7 @@ ____
 </td>
 
 <td align="center" width="30%">
-<span><b><center>Telco Customer Churn Predict</center></b></span> 
+<span><b><center>Machine Learning Telco Customer Churn</center></b></span> 
 <code><a href="https://github.com/mhdalfarisy/Telco-Customer-Churn-Predict" target="_blank">
 <img height=200px src="https://github.com/mhdalfarisy/mhdalfarisy/blob/main/7-Strategies-To-Reduce-Customer-Churn-Rate.png"> 
 </td>
