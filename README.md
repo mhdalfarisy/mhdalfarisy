@@ -1,37 +1,20 @@
 <h1> Hi, i'am Faris ! <img src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Hi.gif" width="50px"> </h1>
-<br>
-
-<!--
-**MuhammadAl-farisy/MuhammadAl-farisy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--->
 I am a graduate of Data Science at Purwadhika Digital Technology School. I am interested in data processing activities, be it data science or data analysis. I have some skills to work in data field (Data Analyst or Data Scientist). These skills include Python Fundamentals, Data Analysis, Data Visualization, SQL, Web Scraping, Machine Learning (Regression and Classification), Machine Learning - Clustering.
-
-My Project :
-- [Data Analyst](#data-analyst)
-- [Machine Learning](#machine-learning)
-- [Data Visualization](#data-visualization)
+<br>
 <br>
 
-## **✨ Tech stacks currently using** <br>
+**My Project :** [Data Analyst](#data-analyst) | [Machine Learning](#machine-learning) | [Data Visualization](#data-visualization)
 
+**Tech stacks currently using** <br>
 
 <code><a href="https://code.visualstudio.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></a></code>
 <code><a href="https://jupyter.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></a></code>
 <code><a href="https://www.mysql.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></a></code>
 <code><a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target="_blank"><img height="50" src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server-1.svg"></a></code>
 <code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
-
-
-## **✨ Visualization Data currently using** <br>
-
 <code><a href="https://powerbi.microsoft.com/en-us/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg"></a></code>
 <code><a href="https://public.tableau.com/app/profile/muhammad.al.farisy6147" target="_blank"><img height="40" src="https://cdn.worldvectorlogo.com/logos/tableau-logo.svg"></a></code>
 <br>
-
-## **✨ Project** <br>
-
 <br>
 <table>
 <tbody>
