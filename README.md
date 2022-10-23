@@ -91,12 +91,8 @@ I am a graduate of Data Science at Purwadhika Digital Technology School. I am in
 <code><a href="https://public.tableau.com/app/profile/muhammad.al.farisy6147" target="_blank"><img height="300" src="https://github.com/mhdalfarisy/mhdalfarisy/blob/main/tol_devices_optimized.png"></a></code>
 <br>
 <br>
-
-
 <br>
-
-![hk](https://github.com/mhdalfarisy/mhdalfarisy/blob/main/download.png)
-
+ 
 **💬 Ask me about anything, I'll be happy to help!** <br>
 **💬 My inbox is always open, Contact me**
 <br>
