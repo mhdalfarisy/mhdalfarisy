@@ -27,6 +27,9 @@ I am a graduate of Data Science at Purwadhika Digital Technology School. I am in
 
 ## **✨ Project** <br>
 
+- [Data Analyst](#data-analyst)
+- [Machine Learning](#machine-learning)
+- [Data Visualization](#data-visualization)
 <br>
 <table>
 <tbody>
