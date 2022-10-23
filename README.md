@@ -6,7 +6,12 @@
 
 Here are some ideas to get you started:
 -->
-I am a graduate of Data Science at Purwadhika Digital Technology School. I am interested in data processing activities, be it data science or data analysis. I have some skills to work in data field (Data Analyst or Data Scientist). These skills include Python Fundamentals, Data Analysis, Data Visualization, SQL, Web Scraping, Machine Learning (Regression and Classification), Machine Learning - Clustering
+I am a graduate of Data Science at Purwadhika Digital Technology School. I am interested in data processing activities, be it data science or data analysis. I have some skills to work in data field (Data Analyst or Data Scientist). These skills include Python Fundamentals, Data Analysis, Data Visualization, SQL, Web Scraping, Machine Learning (Regression and Classification), Machine Learning - Clustering.
+
+My Project :
+- [Data Analyst](#data-analyst)
+- [Machine Learning](#machine-learning)
+- [Data Visualization](#data-visualization)
 <br>
 
 ## **✨ Tech stacks currently using** <br>
@@ -27,9 +32,6 @@ I am a graduate of Data Science at Purwadhika Digital Technology School. I am in
 
 ## **✨ Project** <br>
 
-- [Data Analyst](#data-analyst)
-- [Machine Learning](#machine-learning)
-- [Data Visualization](#data-visualization)
 <br>
 <table>
 <tbody>
