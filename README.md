@@ -21,7 +21,7 @@ I am a graduate of Data Science at Purwadhika Digital Technology School. I am in
 <tbody>
  <tr>
 
-<h1 align="center">Data Analyst</h1>
+<h1 align="left">Data Analyst</h1>
   
 <td align="left" width="50%">
 <span><b><Left>E-Commers Pakistan</center></b></span> 
@@ -82,10 +82,17 @@ I am a graduate of Data Science at Purwadhika Digital Technology School. I am in
 </td>
  
 <!-- <tr> -->
-<td align="left" width="50%">
+<td align="left" width="30%">
 <span><b><left>Employee Attrition Report</center></b></span> 
 <code><a href="https://public.tableau.com/app/profile/muhammad.al.farisy6147/viz/ProjectHumanResourceAttritionAnalysisDashboard/Dashboard1" target="_blank">
 <img height=250px src="https://github.com/mhdalfarisy/Employee-Analysis-Attrition-Report/blob/main/Aset/Dashboard%201%20(1).png"> 
+</td>
+ 
+<!-- <tr> -->
+<td align="left" width="30%">
+<span><b><left>Telco Customer Churn</center></b></span> 
+<code><a href="https://public.tableau.com/app/profile/muhammad.al.farisy6147/viz/ProjectHumanResourceAttritionAnalysisDashboard/Dashboard1" target="_blank">
+<img height=250px src="https://miro.medium.com/max/1400/1*uFJQqFLsjew2Ga9yPRtKtQ.png"> 
 </td>
  
 </tbody>
