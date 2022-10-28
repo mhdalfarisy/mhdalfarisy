@@ -121,6 +121,8 @@ I am a graduate of Data Science at Purwadhika Digital Technology School. I am in
 <br>
 <br>
 
- <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=mhdalfarisy &layout=compact />
+
+| <a href="https://github.com/mhdalfarisy"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mhdalfarisy&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/mhdalfarisy/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhdalfarisy&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
  
 ⭐️ From [Muhammad Al-farisy](https://github.com/mhdalfarisy)
