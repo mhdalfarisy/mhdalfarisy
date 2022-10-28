@@ -140,6 +140,10 @@ I am a graduate of Data Science at Purwadhika Digital Technology School. I am in
 <h1 align="left">THANKS YOU !!! </h1>
 
 <td align="left" width="30%">
+<img height=500px src="https://media.giphy.com/media/l4RKhOL0xiBdbgglFi/giphy.gif"> 
+</td>  
+  
+<td align="left" width="30%">
 <img height=500px src="https://media.giphy.com/media/RipfZWzjUDH25euMpM/giphy.gif"> 
 </td>
 
