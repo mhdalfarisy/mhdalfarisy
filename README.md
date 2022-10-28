@@ -121,4 +121,6 @@ I am a graduate of Data Science at Purwadhika Digital Technology School. I am in
 <br>
 <br>
 
+ <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=mhdalfarisy &layout=compact />
+ 
 ⭐️ From [Muhammad Al-farisy](https://github.com/mhdalfarisy)
