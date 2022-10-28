@@ -4,7 +4,7 @@ I am a graduate of Data Science at Purwadhika Digital Technology School. I am in
 <br>
 <br>
 
-<img align="right" src="https://media.giphy.com/media/U3IddMXMLfKiMmVeAY/giphy.gif" alt="Coder GIF" width="500">
+<img align="right" src="https://media.giphy.com/media/xT9C25UNTwfZuk85WP/giphy-downsized-large.gif" alt="Coder GIF" width="500">
 <br>
 
 **My Project :** [Data Analyst](#data-analyst) | [Machine Learning](#machine-learning) | [Data Visualization](#data-visualization)
