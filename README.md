@@ -140,7 +140,7 @@ I am a graduate of Data Science at Purwadhika Digital Technology School. I am in
 <h1 align="left">THANKS YOU !!! </h1>
 
 <td align="left" width="30%">
-<img height=200px src="https://media.giphy.com/media/RipfZWzjUDH25euMpM/giphy.gif"> 
+<img height=500px src="https://media.giphy.com/media/RipfZWzjUDH25euMpM/giphy.gif"> 
 </td>
 
 ⭐️ From [Muhammad Al-farisy](https://github.com/mhdalfarisy)
