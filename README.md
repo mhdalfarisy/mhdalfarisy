@@ -142,8 +142,12 @@ I am a graduate of Data Science at Purwadhika Digital Technology School. I am in
 <td align="left" width="30%">
 <img height=500px src="https://media.giphy.com/media/gutZ5Pm6Xl62eIf5RZ/giphy.gif"> 
 </td>  
+
+<td align="center" width="30%">
+<img height=500px src="https://media.giphy.com/media/JkVnfE54QdOMQBxmHg/giphy.gif"> 
+</td>  
   
-<td align="left" width="30%">
+<td align="right" width="30%">
 <img height=500px src="https://media.giphy.com/media/7c8QeB0VMddFOuu4iR/giphy.gif"> 
 </td>
 
