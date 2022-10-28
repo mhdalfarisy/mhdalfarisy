@@ -76,14 +76,14 @@ I am a graduate of Data Science at Purwadhika Digital Technology School. I am in
 <h1 align="center">Data Visualization</h1>
 
 <td align="center" width="50%">
-<span><b><center>Visualization E-Commers Pakistan</center></b></span> 
+<span><b><center>E-Commers Pakistan</center></b></span> 
 <code><a href="https://public.tableau.com/app/profile/muhammad.al.farisy6147/viz/ProjectE-CommersPakistanDashboard/Dashboard1" target="_blank">
 <img height=150px src="https://github.com/mhdalfarisy/EDA---Pakistan-s-Larges-Ecommers/blob/main/Images/Dashboard%201%20(1).png"> 
 </td>
  
 <!-- <tr> -->
 <td align="center" width="50%">
-<span><b><center>Visualization Employee Attrition Report</center></b></span> 
+<span><b><center>Employee Attrition Report</center></b></span> 
 <code><a href="https://public.tableau.com/app/profile/muhammad.al.farisy6147/viz/ProjectHumanResourceAttritionAnalysisDashboard/Dashboard1" target="_blank">
 <img height=150px src="https://github.com/mhdalfarisy/Employee-Analysis-Attrition-Report/blob/main/Aset/Dashboard%201%20(1).png"> 
 </td>
