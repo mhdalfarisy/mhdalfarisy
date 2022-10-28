@@ -139,16 +139,16 @@ I am a graduate of Data Science at Purwadhika Digital Technology School. I am in
  
 <h1 align="left">THANKS YOU !!! </h1>
 
-<td align="left" width="30%">
-<img height=500px src="https://media.giphy.com/media/gutZ5Pm6Xl62eIf5RZ/giphy.gif"> 
-</td>  
-
-<td align="center" width="30%">
-<img height=500px src="https://media.giphy.com/media/JkVnfE54QdOMQBxmHg/giphy.gif"> 
+<td align="center" width="40%">
+<img height=300px src="https://media.giphy.com/media/JkVnfE54QdOMQBxmHg/giphy.gif"> 
 </td>  
   
-<td align="right" width="30%">
-<img height=500px src="https://media.giphy.com/media/7c8QeB0VMddFOuu4iR/giphy.gif"> 
+<td align="right" width="40%">
+<img height=300px src="https://media.giphy.com/media/7c8QeB0VMddFOuu4iR/giphy.gif"> 
 </td>
+  
+<td align="left" width="40%">
+<img height=300px src="https://media.giphy.com/media/gutZ5Pm6Xl62eIf5RZ/giphy.gif"> 
+</td>   
 
 ⭐️ From [Muhammad Al-farisy](https://github.com/mhdalfarisy)
