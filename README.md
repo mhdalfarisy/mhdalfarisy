@@ -4,7 +4,8 @@ I am a graduate of Data Science at Purwadhika Digital Technology School. I am in
 <br>
 <br>
 
-<img align="right" src="https://media.giphy.com/media/xT9C25UNTwfZuk85WP/giphy-downsized-large.gif" alt="Coder GIF" width="500">
+<img align="right" alt="Muhammad Al-farisy | LinkedIN" width="400" height=300px src="https://media.giphy.com/media/xT5LMWNOjGqJzUfyve/giphy.gif">
+
 <br>
 
 **My Project :** [Data Analyst](#data-analyst) | [Machine Learning](#machine-learning) | [Data Visualization](#data-visualization)
@@ -139,12 +140,22 @@ I am a graduate of Data Science at Purwadhika Digital Technology School. I am in
 <h1 align="left">THANKS YOU !!! </h1>
 
 <td align="left" width="30%">
-<img height=200px src="https://media.giphy.com/media/MjNqzWt0sXWZw5okrF/giphy.gif"> 
-</td>
+<img height=200px src="https://media.giphy.com/media/dF3MnooYFjEcmpKf0I/giphy.gif"> 
+</td>  
 
 <td align="left" width="30%">
 <img height=200px src="https://media.giphy.com/media/JWuBH9rCO2uZuHBFpm/giphy.gif"> 
 </td>
+  
+<td align="left" width="30%">
+<img height=200px src="https://media.giphy.com/media/RipfZWzjUDH25euMpM/giphy.gif"> 
+</td>
+
+<td align="left" width="30%">
+<img height=200px src="https://media.giphy.com/media/MjNqzWt0sXWZw5okrF/giphy.gif"> 
+</td>
+
+
 
  
 ⭐️ From [Muhammad Al-farisy](https://github.com/mhdalfarisy)
