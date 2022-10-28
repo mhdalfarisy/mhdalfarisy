@@ -85,7 +85,7 @@ I am a graduate of Data Science at Purwadhika Digital Technology School. I am in
 <td align="center" width="50%">
 <span><b><center>Visualization Employee Attrition Report</center></b></span> 
 <code><a href="https://public.tableau.com/app/profile/muhammad.al.farisy6147/viz/ProjectHumanResourceAttritionAnalysisDashboard/Dashboard1" target="_blank">
-<img height=200px src="https://github.com/mhdalfarisy/Employee-Analysis-Attrition-Report/blob/main/Aset/Dashboard%201%20(1).png"> 
+<img height=150px src="https://github.com/mhdalfarisy/Employee-Analysis-Attrition-Report/blob/main/Aset/Dashboard%201%20(1).png"> 
 </td>
  
 </tbody>
