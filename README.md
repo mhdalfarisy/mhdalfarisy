@@ -1,7 +1,7 @@
 <h1> Hi, i'am Faris ! <img src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Hi.gif" width="40px"> </h1>
 I am a graduate of Data Science at Purwadhika Digital Technology School. I am interested in data processing activities, be it data science or data analysis. I have some skills to work in data field (Data Analyst or Data Scientist). These skills include Python Fundamentals, Data Analysis, Data Visualization, SQL, Web Scraping, Machine Learning (Regression and Classification), Machine Learning - Clustering.
 <br>
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="200">
+<img src="https://media.giphy.com/media/JWuBH9rCO2uZuHBFpm/giphy.gif" alt="Coder GIF" width="200">
 
 **My Project :** [Data Analyst](#data-analyst) | [Machine Learning](#machine-learning) | [Data Visualization](#data-visualization)
 
@@ -23,13 +23,13 @@ I am a graduate of Data Science at Purwadhika Digital Technology School. I am in
 
 <h1 align="center">Data Analyst</h1>
   
-<td align="center" width="50%">
+<td align="left" width="50%">
 <span><b><Left>E-Commers Pakistan</center></b></span> 
 <code><a href="https://github.com/mhdalfarisy/EDA---Pakistan-s-Larges-Ecommers" target="_blank">
 <img height=250px src="https://github.com/mhdalfarisy/EDA---Pakistan-s-Larges-Ecommers/blob/main/Images/62253a402fccf.jpg"> 
 </td>
 <!-- <tr> -->
-<td align="center" width="50%">
+<td align="left" width="50%">
 <span><b><Left>Employee Attrition</center></b></span> 
 <code><a href="https://github.com/mhdalfarisy/Employee-Analysis-Attrition-Report" target="_blank">
 <img height=250px src="https://github.com/mhdalfarisy/Employee-Analysis-Attrition-Report/blob/main/Aset/Reasons-Attrition1_large%20(1).jpg"> 
@@ -42,23 +42,23 @@ I am a graduate of Data Science at Purwadhika Digital Technology School. I am in
 <tbody>
  <tr>
  
-<h1 align="center">Machine Learning</h1>
+<h1 align="left">Machine Learning</h1>
 
-<td align="center" width="30%">
-<span><b><center>California House Price</center></b></span> 
+<td align="left" width="30%">
+<span><b><left>California House Price</center></b></span> 
 <code><a href="https://github.com/mhdalfarisy/California-House-Price-Prediction-Using-Machine-Learning" target="_blank">
 <img height=200px src="https://github.com/mhdalfarisy/California-House-Price-Prediction-Using-Machine-Learning/blob/main/gambar/CA-Sales-Home-Volume.png"> 
 </td>
 
-<td align="center" width="30%">
-<span><b><center>Credit Card Fraud</center></b></span> 
+<td align="left" width="30%">
+<span><b><left>Credit Card Fraud</center></b></span> 
 <code><a href="https://github.com/mhdalfarisy/Credit-Card-Fraud-Prediction" target="_blank">
 <img height=200px src="https://github.com/mhdalfarisy/Credit-Card-Fraud-Prediction/blob/main/68747470733a2f2f65787465726e616c2d636f6e74656e742e6475636b6475636b676f2e636f6d2f69752f3f753d687474707325334125324625324661692d6a6f75726e65792e636f6d25324677702d636f6e74656e7425324675706c6f61647325324632303139253246.jfif"> 
 </td>
 
 <!-- <tr> -->
-<td align="center" width="30%">
-<span><b><center>Telco Customer Churn</center></b></span> 
+<td align="left" width="30%">
+<span><b><left>Telco Customer Churn</center></b></span> 
 <code><a href="https://github.com/mhdalfarisy/Telco-Customer-Churn-Predict" target="_blank">
 <img height=200px src="https://github.com/mhdalfarisy/mhdalfarisy/blob/main/7-Strategies-To-Reduce-Customer-Churn-Rate.png"> 
 </td>
@@ -73,19 +73,19 @@ I am a graduate of Data Science at Purwadhika Digital Technology School. I am in
 <tbody>
  <tr>
 
-<h1 align="center">Data Visualization</h1>
+<h1 align="left">Data Visualization</h1>
 
-<td align="center" width="50%">
-<span><b><center>E-Commers Pakistan</center></b></span> 
+<td align="left" width="50%">
+<span><b><left>E-Commers Pakistan</center></b></span> 
 <code><a href="https://public.tableau.com/app/profile/muhammad.al.farisy6147/viz/ProjectE-CommersPakistanDashboard/Dashboard1" target="_blank">
-<img height=150px src="https://github.com/mhdalfarisy/EDA---Pakistan-s-Larges-Ecommers/blob/main/Images/Dashboard%201%20(1).png"> 
+<img height=100px src="https://github.com/mhdalfarisy/EDA---Pakistan-s-Larges-Ecommers/blob/main/Images/Dashboard%201%20(1).png"> 
 </td>
  
 <!-- <tr> -->
-<td align="center" width="50%">
-<span><b><center>Employee Attrition Report</center></b></span> 
+<td align="left" width="50%">
+<span><b><left>Employee Attrition Report</center></b></span> 
 <code><a href="https://public.tableau.com/app/profile/muhammad.al.farisy6147/viz/ProjectHumanResourceAttritionAnalysisDashboard/Dashboard1" target="_blank">
-<img height=150px src="https://github.com/mhdalfarisy/Employee-Analysis-Attrition-Report/blob/main/Aset/Dashboard%201%20(1).png"> 
+<img height=250px src="https://github.com/mhdalfarisy/Employee-Analysis-Attrition-Report/blob/main/Aset/Dashboard%201%20(1).png"> 
 </td>
  
 </tbody>
@@ -98,7 +98,7 @@ I am a graduate of Data Science at Purwadhika Digital Technology School. I am in
 <!-- <h1 align="center">Others Data Visualization Report</h1> -->
 <td align="center" width="50%">
 <span><b><center>Others Data Visualization Report (Click Picture) :   </center></b></span> 
-<code><a href="https://public.tableau.com/app/profile/muhammad.al.farisy6147" target="_blank"><img height="100" src="https://github.com/mhdalfarisy/mhdalfarisy/blob/main/tol_devices_optimized.png"></a></code>
+<code><a href="https://public.tableau.com/app/profile/muhammad.al.farisy6147" target="_blank"><img height="300" src="https://github.com/mhdalfarisy/mhdalfarisy/blob/main/tol_devices_optimized.png"></a></code>
 <br>
 <br>
 <br>
