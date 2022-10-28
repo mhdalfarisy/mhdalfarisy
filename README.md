@@ -92,10 +92,12 @@ I am a graduate of Data Science at Purwadhika Digital Technology School. I am in
 </table>
  <tr>
 
-<!-- <h1 align="center">Others Data Visualization Report</h1> -->
+
 
 <br>
-#### Other Data Visualization Reports
+<!-- <h1 align="center">Others Data Visualization Report</h1> -->
+<td align="center" width="50%">
+<span><b><center>Others Data Visualization Report (Click Picture) :   </center></b></span> 
 <code><a href="https://public.tableau.com/app/profile/muhammad.al.farisy6147" target="_blank"><img height="100" src="https://github.com/mhdalfarisy/mhdalfarisy/blob/main/tol_devices_optimized.png"></a></code>
 <br>
 <br>
