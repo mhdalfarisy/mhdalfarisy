@@ -80,24 +80,24 @@ I am a graduate of Data Science at Purwadhika Digital Technology School. I am in
 
 <h1 align="left">Data Visualization</h1>
   
-<td align="left" width="20%">
+<td align="left" width="30%">
 <span><b><Left>E-Commers Pakistan</center></b></span> 
 <code><a href="https://public.tableau.com/app/profile/muhammad.al.farisy6147/viz/ProjectE-CommersPakistanDashboard/Dashboard1" target="_blank">
-<img height=250px src="https://github.com/mhdalfarisy/EDA---Pakistan-s-Larges-Ecommers/blob/main/Images/Dashboard%201%20(1).png"> 
+<img height=200px src="https://github.com/mhdalfarisy/mhdalfarisy/blob/main/Pakistan%20Visualisasi.png"> 
 </td>
  
 <!-- <tr> -->
 <td align="left" width="30%">
 <span><b><left>Employee Attrition Report</center></b></span> 
 <code><a href="https://public.tableau.com/app/profile/muhammad.al.farisy6147/viz/ProjectHumanResourceAttritionAnalysisDashboard/Dashboard1" target="_blank">
-<img height=250px src="https://github.com/mhdalfarisy/Employee-Analysis-Attrition-Report/blob/main/Aset/Dashboard%201%20(1).png"> 
+<img height=200px src="https://github.com/mhdalfarisy/mhdalfarisy/blob/main/HRD%20VIsualisasi.png"> 
 </td>
  
 <!-- <tr> -->
-<td align="left" width="30%">
+<td align="left" width="25%">
 <span><b><left>Telco Customer Churn</center></b></span> 
 <code><a href="https://public.tableau.com/app/profile/muhammad.al.farisy6147/viz/CustomerChunVisualization/Dashboard2?publish=yes" target="_blank">
-<img height=250px src="https://github.com/mhdalfarisy/mhdalfarisy/blob/main/Dashboard%202.png"> 
+<img height=200px src="https://github.com/mhdalfarisy/mhdalfarisy/blob/main/Telco%20Customer%20Churn.png"> 
 </td>
  
 </tbody>
@@ -108,7 +108,7 @@ I am a graduate of Data Science at Purwadhika Digital Technology School. I am in
 
 <br>
 <!-- <h1 align="center">Others Data Visualization Report</h1> -->
-<td align="left" width="20%">
+<td align="left" width="30%">
 <span><b><left>Others Data Visualization Report (Click Picture) :   </left></b></span> 
 <code><a href="https://public.tableau.com/app/profile/muhammad.al.farisy6147" target="_blank"><img height="100" src="https://github.com/mhdalfarisy/mhdalfarisy/blob/main/tol_devices_optimized.png"></a></code>
 <br>
