@@ -97,7 +97,7 @@ I am a graduate of Data Science at Purwadhika Digital Technology School. I am in
 <td align="left" width="25%">
 <span><b><left>Telco Customer Churn</center></b></span> 
 <code><a href="https://public.tableau.com/app/profile/muhammad.al.farisy6147/viz/CustomerChunVisualization/Dashboard2?publish=yes" target="_blank">
-<img height=200px src="https://github.com/mhdalfarisy/mhdalfarisy/blob/main/Telco%20Customer%20Churn.png"> 
+<img height=200px src="https://github.com/mhdalfarisy/mhdalfarisy/blob/main/Telco%20Customer%20%2022.png"> 
 </td>
  
 </tbody>
