@@ -67,7 +67,14 @@ I am a graduate of Data Science at Purwadhika Digital Technology School. I am in
 <code><a href="https://github.com/mhdalfarisy/Telco-Customer-Churn-Predict" target="_blank">
 <img height=200px src="https://github.com/mhdalfarisy/mhdalfarisy/blob/main/7-Strategies-To-Reduce-Customer-Churn-Rate.png"> 
 </td>
- 
+
+<!-- <tr> -->
+<td align="left" width="30%">
+<span><b><left>Employee Promotion</center></b></span> 
+<code><a href="https://github.com/mhdalfarisy/Telco-Customer-Churn-Predict" target="_blank">
+<img height=200px src="https://github.com/mhdalfarisy/mhdalfarisy/blob/main/advance-career.jpg"> 
+</td>
+
 </tbody>
 </table>
  <tr>
