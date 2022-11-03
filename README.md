@@ -49,27 +49,27 @@ I am a graduate of Data Science at Purwadhika Digital Technology School. I am in
  
 <h1 align="left">Machine Learning</h1>
 
-<td align="left" width="30%">
+<td align="left" width="20%">
 <span><b><left>California House Price</center></b></span> 
 <code><a href="https://github.com/mhdalfarisy/California-House-Price-Prediction-Using-Machine-Learning" target="_blank">
 <img height=200px src="https://github.com/mhdalfarisy/California-House-Price-Prediction-Using-Machine-Learning/blob/main/gambar/CA-Sales-Home-Volume.png"> 
 </td>
 
-<td align="left" width="30%">
+<td align="left" width="20%">
 <span><b><left>Credit Card Fraud</center></b></span> 
 <code><a href="https://github.com/mhdalfarisy/Credit-Card-Fraud-Prediction" target="_blank">
 <img height=200px src="https://github.com/mhdalfarisy/Credit-Card-Fraud-Prediction/blob/main/68747470733a2f2f65787465726e616c2d636f6e74656e742e6475636b6475636b676f2e636f6d2f69752f3f753d687474707325334125324625324661692d6a6f75726e65792e636f6d25324677702d636f6e74656e7425324675706c6f61647325324632303139253246.jfif"> 
 </td>
 
 <!-- <tr> -->
-<td align="left" width="30%">
+<td align="left" width="20%">
 <span><b><left>Telco Customer Churn</center></b></span> 
 <code><a href="https://github.com/mhdalfarisy/Telco-Customer-Churn-Predict" target="_blank">
 <img height=200px src="https://github.com/mhdalfarisy/mhdalfarisy/blob/main/7-Strategies-To-Reduce-Customer-Churn-Rate.png"> 
 </td>
 
 <!-- <tr> -->
-<td align="left" width="30%">
+<td align="left" width="20%">
 <span><b><left>Employee Promotion</center></b></span> 
 <code><a href="https://github.com/mhdalfarisy/Telco-Customer-Churn-Predict" target="_blank">
 <img height=200px src="https://github.com/mhdalfarisy/mhdalfarisy/blob/main/advance-career.jpg"> 
