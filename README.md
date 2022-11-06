@@ -47,7 +47,7 @@ I am a graduate of Data Science at Purwadhika Digital Technology School. I am in
 <tbody>
  <tr>
  
-<h1 align="left">Machine Learning</h1>
+<h1 align="left">Machine Learning - Supervised</h1>
 
 <td align="left" width="20%">
 <span><b><left>California House Price</center></b></span> 
@@ -75,6 +75,23 @@ I am a graduate of Data Science at Purwadhika Digital Technology School. I am in
 <img height=150px src="https://github.com/mhdalfarisy/mhdalfarisy/blob/main/advance-career.jpg"> 
 </td>
 
+</tbody>
+</table>
+ <tr>
+  
+<h1 align="left">Machine Learning - Unsupervised</h1>  
+
+<table>
+<tbody>
+ <tr>  
+  
+<!-- <tr> -->
+<td align="left" width="25%">
+<span><b><left>Segmentation Customer Mall</center></b></span> 
+<code><a href="https://github.com/mhdalfarisy/Segmentation-Customer-Mall" target="_blank">
+<img height=200px src="https://github.com/mhdalfarisy/Segmentation-Customer-Mall/blob/main/2.-Customer-Segmentation.jpg"> 
+</td>
+ 
 </tbody>
 </table>
  <tr>
