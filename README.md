@@ -96,7 +96,7 @@ I am a graduate of Data Science at Purwadhika Digital Technology School. I am in
 <td align="center" width="50%">
 <span><b><left>Segmentation Customer Wine Store</center></b></span> 
 <code><a href="" target="_blank">
-<img height=200px src="https://ih1.redbubble.net/image.444173684.6876/st,small,845x845-pad,1000x1000,f8f8f8.u1.jpg"> 
+<img height=250px src="https://ih1.redbubble.net/image.444173684.6876/st,small,845x845-pad,1000x1000,f8f8f8.u1.jpg"> 
 </td> 
  
 </tbody>
