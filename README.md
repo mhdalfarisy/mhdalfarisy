@@ -96,7 +96,7 @@ I am a graduate of Data Science at Purwadhika Digital Technology School. I am in
 <td align="center" width="50%">
 <span><b><left>Segmentation Customer Wine Store</center></b></span>
 <code><a href="" target="_blank">
-<span><b><left>(On Progress)e</center></b></span>
+<span><b><left>(On Progress)...</center></b></span>
 <code><a href="" target="_blank">
 <img height=250px src="https://github.com/mhdalfarisy/mhdalfarisy/blob/main/istockphoto-1254636143-612x612.jpg"> 
 </td> 
