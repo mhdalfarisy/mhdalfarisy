@@ -89,14 +89,14 @@ I am a graduate of Data Science at Purwadhika Digital Technology School. I am in
 <td align="center" width="50%">
 <span><b><left>Segmentation Customer Mall</center></b></span> 
 <code><a href="https://github.com/mhdalfarisy/Segmentation-Customer-Mall" target="_blank">
-<img height=200px src="https://github.com/mhdalfarisy/Segmentation-Customer-Mall/blob/main/2.-Customer-Segmentation.jpg"> 
+<img height=250px src="https://github.com/mhdalfarisy/Segmentation-Customer-Mall/blob/main/2.-Customer-Segmentation.jpg"> 
 </td>
  
 <!-- <tr> -->
 <td align="center" width="50%">
 <span><b><left>Segmentation Customer Wine Store</center></b></span> 
 <code><a href="" target="_blank">
-<img height=250px src="https://github.com/mhdalfarisy/mhdalfarisy/blob/main/welcome-to-bar-catering-business-service-vector-illustration-cartoon-man-owner-of-bar-shop-cafe-or-restaurant-standing-behind-wooden-bar-counter-alcohol-drink-bottles-on-shelves-background-2GDBE0G.jpg"> 
+<img height=250px src="https://github.com/mhdalfarisy/mhdalfarisy/blob/main/istockphoto-1254636143-612x612.jpg"> 
 </td> 
  
 </tbody>
