@@ -94,7 +94,7 @@ I am a graduate of Data Science at Purwadhika Digital Technology School. I am in
  
 <!-- <tr> -->
 <td align="center" width="50%">
-<span><b><left>Segmentation Customer Wine Store</center></b></span>
+<span><b><left>Segmentation Customer Supermarket</center></b></span>
 <code><a href="" target="_blank">
 <span><b><left>(On Progress)...</center></b></span>
 <code><a href="" target="_blank">
