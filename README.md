@@ -95,9 +95,7 @@ I am a graduate of Data Science at Purwadhika Digital Technology School. I am in
 <!-- <tr> -->
 <td align="center" width="50%">
 <span><b><left>Segmentation Customer Supermarket</center></b></span>
-<code><a href="" target="_blank">
-<span><b><left>(On Progress)...</center></b></span>
-<code><a href="" target="_blank">
+<code><a href="https://github.com/mhdalfarisy/Customer-Supermarket" target="_blank">
 <img height=250px src="https://github.com/mhdalfarisy/mhdalfarisy/blob/main/istockphoto-1254636143-612x612.jpg"> 
 </td> 
  
