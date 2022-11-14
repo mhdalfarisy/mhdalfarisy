@@ -86,17 +86,24 @@ I am a graduate of Data Science at Purwadhika Digital Technology School. I am in
  <tr>  
   
 <!-- <tr> -->
-<td align="center" width="50%">
+<td align="center" width="30%">
 <span><b><left>Segmentation Customer Mall</center></b></span> 
 <code><a href="https://github.com/mhdalfarisy/Segmentation-Customer-Mall" target="_blank">
 <img height=250px src="https://github.com/mhdalfarisy/Segmentation-Customer-Mall/blob/main/2.-Customer-Segmentation.jpg"> 
 </td>
  
 <!-- <tr> -->
-<td align="center" width="50%">
+<td align="center" width="30%">
 <span><b><left>Segmentation Customer Supermarket</center></b></span>
 <code><a href="https://github.com/mhdalfarisy/Customer-Supermarket" target="_blank">
 <img height=250px src="https://github.com/mhdalfarisy/mhdalfarisy/blob/main/istockphoto-1254636143-612x612.jpg"> 
+</td> 
+
+<!-- <tr> -->
+<td align="center" width="30%">
+<span><b><left>Segmentation German Credit Risk</center></b></span>
+<code><a href="https://github.com/mhdalfarisy/German-Credit-Risk" target="_blank">
+<img height=250px src="https://media.istockphoto.com/vectors/banking-credit-card-vector-id1353716726?b=1&k=20&m=1353716726&s=612x612&w=0&h=qkwNRlcHCDUxeSgVYau8FczoM6x0sl693nvjAAcRmio="> 
 </td> 
  
 </tbody>
