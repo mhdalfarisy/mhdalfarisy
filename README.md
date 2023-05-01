@@ -7,10 +7,8 @@ Currently working in the Mining industry as a Data Analyst. I am interested in d
 <h1>
 <h1/>
 
-<img align="right" alt="Muhammad Al-farisy | LinkedIN" width="400" height=300px src="https://media.giphy.com/media/to9ZCSI7FZKPhSADo5/giphy.gif">
-
-<br>
-
+<img align="right" alt="Muhammad Al-farisy | LinkedIN" width="800" height=500px src="https://media.giphy.com/media/to9ZCSI7FZKPhSADo5/giphy.gif">
+ 
 **My Project :** [Data Analyst](#data-analyst) | [Machine Learning](#machine-learning) | [Data Visualization](#data-visualization)
 
 **Tech stacks currently using** <br>
