@@ -1,8 +1,11 @@
-<h1> Hi, I am a Data Science graduate at Purwadhika School of Digital Technology. I am currently working in the Mining industry as a Data Analyst.
-I am interested in data processing activities, be it data science or data analysis and I have some expertise to work in the data field (Data Analyst or Data Scientist). These skills include Python Fundamentals, Data Analysis, Data Visualization, SQL, Web Scraping, Machine Learning (Regression and Classification), Machine Learning - Clustering.
+<h1> I'am Faris ! <img align="right" alt="Muhammad Al-farisy | LinkedIN" width="400" height=300 src="https://gifdb.com/images/high/gumby-me-raise-hand-waving-53roi904clo7cnhi.gif"> </h1>
 
-<br>
-<br>
+I'am graduated from Accounting at Pasundan University (BDG) and Data Science at Purwadhika Digital Technology School (JKT).
+ 
+Currently working in the Mining industry as a Data Analyst. I am interested in data processing activities, be it data science or data analysis and I have some expertise to work in the data field (Data Analyst or Data Scientist). These skills include Python Programming, Data Analysis, Data Visualization, SQL, Web Scraping, Machine Learning (Regression and Classification), Machine Learning - Clustering.
+
+<h1>
+<h1/>
 
 <img align="right" alt="Muhammad Al-farisy | LinkedIN" width="400" height=300px src="https://media.giphy.com/media/xT5LMWNOjGqJzUfyve/giphy.gif">
 
