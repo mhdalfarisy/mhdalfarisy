@@ -7,7 +7,7 @@ Currently working in the Mining industry as a Data Analyst. I am interested in d
 <h1>
 <h1/>
 
-<img align="right" alt="Muhammad Al-farisy | LinkedIN" width="400" height=300px src="https://media.giphy.com/media/xT5LMWNOjGqJzUfyve/giphy.gif">
+<img align="right" alt="Muhammad Al-farisy | LinkedIN" width="400" height=300px src="https://media.giphy.com/media/to9ZCSI7FZKPhSADo5/giphy.gif">
 
 <br>
 
