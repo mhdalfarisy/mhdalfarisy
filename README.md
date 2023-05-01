@@ -1,4 +1,4 @@
-<h1> I'am Faris ! <img align="right" alt="Muhammad Al-farisy | LinkedIN" width="400" height=300 src="https://gifdb.com/images/high/gumby-me-raise-hand-waving-53roi904clo7cnhi.gif"> </h1>
+<h1> I'am Faris ! </h1>
 
 I'am graduated from Accounting at Pasundan University (BDG) and Data Science at Purwadhika Digital Technology School (JKT).
  
