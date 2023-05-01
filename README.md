@@ -4,11 +4,9 @@ I'am graduated from Accounting at Pasundan University (BDG) and Data Science at 
  
 Currently working in the Mining industry as a Data Analyst. I am interested in data processing activities, be it data science or data analysis and I have some expertise to work in the data field (Data Analyst or Data Scientist). These skills include Python Programming, Data Analysis, Data Visualization, SQL, Web Scraping, Machine Learning (Regression and Classification), Machine Learning - Clustering.
 
-<h1>
-<h1/>
 
-<img align="right" alt="Muhammad Al-farisy | LinkedIN" width="800" height=500px src="https://media.giphy.com/media/to9ZCSI7FZKPhSADo5/giphy.gif">
- 
+<img align="right" alt="Muhammad Al-farisy | LinkedIN" width="400" height=300px src="https://media.giphy.com/media/to9ZCSI7FZKPhSADo5/giphy.gif">
+
 **My Project :** [Data Analyst](#data-analyst) | [Machine Learning](#machine-learning) | [Data Visualization](#data-visualization)
 
 **Tech stacks currently using** <br>
