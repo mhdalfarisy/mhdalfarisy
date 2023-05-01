@@ -1,5 +1,5 @@
-<h1> Hi, i'am Faris ! <img src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Hi.gif" width="40px"> </h1>
-I am a graduate of Data Science at Purwadhika Digital Technology School. I am interested in data processing activities, be it data science or data analysis. I have some skills to work in data field (Data Analyst or Data Scientist). These skills include Python Fundamentals, Data Analysis, Data Visualization, SQL, Web Scraping, Machine Learning (Regression and Classification), Machine Learning - Clustering.
+<h1> Hi, I am a Data Science graduate at Purwadhika School of Digital Technology. I am currently working in the Mining industry as a Data Analyst.
+I am interested in data processing activities, be it data science or data analysis and I have some expertise to work in the data field (Data Analyst or Data Scientist). These skills include Python Fundamentals, Data Analysis, Data Visualization, SQL, Web Scraping, Machine Learning (Regression and Classification), Machine Learning - Clustering.
 
 <br>
 <br>
