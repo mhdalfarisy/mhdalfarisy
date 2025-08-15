@@ -1,8 +1,10 @@
 <h1> I'am Faris ! </h1>
 
-I'am graduated from Accounting at Pasundan University (BDG) and Data Science at Purwadhika Digital Technology School (JKT).
- 
-Currently working in the Mining industry as a Data Analyst. I am interested in data processing activities, be it data science or data analysis and I have some expertise to work in the data field (Data Analyst or Data Scientist). These skills include Python Programming, Data Analysis, Data Visualization, SQL, Web Scraping, Machine Learning (Regression and Classification), Machine Learning - Clustering.
+I'm a Data Analyst with hands-on experience in building interactive dashboards using Power BI and supporting ETL processes. I specialize in data extraction, transformation, and visualization, with proficiency in Python, Apache Airflow, Google BigQuery, PostgreSQL and Power BI.
+
+I have a strong interest in Data Engineering and am continuously expanding my knowledge in Artificial Intelligence (AI). I'm passionate about delivering actionable insights and automating data workflows to support data-driven decision-making.
+
+With a versatile background, I have experience in building reliable data pipelines, crafting impactful dashboards, and managing modern cloud-based data warehouses. I am committed to leveraging data to drive business success and am always eager to learn new technologies and methodologies in the field of data analytics and engineering.
 
 
 <img align="right" alt="Muhammad Al-farisy | LinkedIN" width="400" height=300px src="https://media.giphy.com/media/to9ZCSI7FZKPhSADo5/giphy.gif">
