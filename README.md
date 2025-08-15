@@ -63,7 +63,8 @@
 <!--   <a href="https://public.tableau.com/app/profile/muhammad.al.farisy6147"><img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="80"/></a> -->
 </p>
 
+---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/to9ZCSI7FZKPhSADo5/giphy.gif" width="600" alt="Data Analyst GIF"/>
+  <img src="https://media.giphy.com/media/to9ZCSI7FZKPhSADo5/giphy.gif" width="500" alt="Data Analyst GIF"/>
 </p>
