@@ -1,146 +1,74 @@
-<h1> I'am Faris ! </h1>
+<!-- Banner / Header -->
+<p align="center">
+  <img src="https://media.giphy.com/media/to9ZCSI7FZKPhSADo5/giphy.gif" width="300" alt="Data Analyst GIF"/>
+</p>
 
-I'm a Data Analyst with hands-on experience in building interactive dashboards using Power BI and supporting ETL processes. I specialize in data extraction, transformation, and visualization, with proficiency in Python, Apache Airflow, Google BigQuery, PostgreSQL and Power BI.
+<h1 align="center">Hi 👋, I'm Faris</h1>
+<h3 align="center">Data Analyst | Aspiring Data Engineer | AI Enthusiast</h3>
 
-I have a strong interest in Data Engineering and am continuously expanding my knowledge in Artificial Intelligence (AI). I'm passionate about delivering actionable insights and automating data workflows to support data-driven decision-making.
+---
 
-With a versatile background, I have experience in building reliable data pipelines, crafting impactful dashboards, and managing modern cloud-based data warehouses. I am committed to leveraging data to drive business success and am always eager to learn new technologies and methodologies in the field of data analytics and engineering.
+## 📌 About Me
 
+- 📊 **Data Analyst** with experience in interactive dashboards using **Power BI**  
+- 🔄 Skilled in **ETL processes**, **data pipelines**, and **cloud-based data warehouses**  
+- 🤖 Passionate about **AI** & **automation** for data-driven decision making  
+- 🌱 Currently learning **Data Engineering & Machine Learning**  
 
-<img align="right" alt="Muhammad Al-farisy | LinkedIN" width="400" height=300px src="https://media.giphy.com/media/to9ZCSI7FZKPhSADo5/giphy.gif">
+---
 
-**My Project :** [Data Analyst](#data-analyst) | [Machine Learning](#machine-learning) | [Data Visualization](#data-visualization)
+## 🛠 Tech Stack
 
-**Tech stacks currently using** <br>
+**Programming & Tools**  
+<p>
+  <img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" height="50"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server-1.svg" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg" height="50"/>
+</p>
 
-<code><a href="https://code.visualstudio.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></a></code>
-<code><a href="https://jupyter.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></a></code>
-<code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
-<code><a href="https://www.mysql.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></a></code>
-<code><a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target="_blank"><img height="50" src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server-1.svg"></a></code>
-<code><a href="https://www.postgresql.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></a></code>
-<code><a href="https://powerbi.microsoft.com/en-us/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg"></a></code>
-<code><a href="https://public.tableau.com/app/profile/muhammad.al.farisy6147" target="_blank"><img height="30" src="https://cdn.worldvectorlogo.com/logos/tableau-logo.svg"></a></code>
-<br>
-<br>
-<table>
-<tbody>
- <tr>
+**Data Visualization**  
+<p>
+  <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg" height="50"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/tableau-logo.svg" height="40"/>
+</p>
 
-<h1 align="left">Data Analyst</h1>
-  
-<td align="left" width="50%">
-<span><b><Left>E-Commers Pakistan</center></b></span> 
-<code><a href="https://github.com/mhdalfarisy/EDA---Pakistan-s-Larges-Ecommers" target="_blank">
-<img height=250px src="https://github.com/mhdalfarisy/EDA---Pakistan-s-Larges-Ecommers/blob/main/Images/62253a402fccf.jpg"> 
-</td>
-<!-- <tr> -->
-<td align="left" width="50%">
-<span><b><Left>Employee Attrition</center></b></span> 
-<code><a href="https://github.com/mhdalfarisy/Employee-Analysis-Attrition-Report" target="_blank">
-<img height=250px src="https://github.com/mhdalfarisy/Employee-Analysis-Attrition-Report/blob/main/Aset/Reasons-Attrition1_large%20(1).jpg"> 
-</td>
-</tbody>
-</table>
- <tr>
-<br>
-<table>
-<tbody>
- <tr>
- 
-<h1 align="left">Machine Learning - Supervised</h1>
+---
 
-<td align="left" width="50%">
-<span><b><left>California House Price</center></b></span> 
-<code><a href="https://github.com/mhdalfarisy/California-House-Price-Prediction-Using-Machine-Learning" target="_blank">
-<img height=150px src="https://github.com/mhdalfarisy/California-House-Price-Prediction-Using-Machine-Learning/blob/main/gambar/CA-Sales-Home-Volume.png"> 
-</td>
+## 🚀 Featured Projects
 
-<td align="left" width="50%">
-<span><b><left>Credit Card Fraud</center></b></span> 
-<code><a href="https://github.com/mhdalfarisy/Credit-Card-Fraud-Prediction" target="_blank">
-<img height=150px src="https://github.com/mhdalfarisy/Credit-Card-Fraud-Prediction/blob/main/68747470733a2f2f65787465726e616c2d636f6e74656e742e6475636b6475636b676f2e636f6d2f69752f3f753d687474707325334125324625324661692d6a6f75726e65792e636f6d25324677702d636f6e74656e7425324675706c6f61647325324632303139253246.jfif"> 
-</td>
+### 📈 Data Analyst
+| Project | Preview |
+|---------|---------|
+| [E-Commerce Pakistan Analysis](https://github.com/mhdalfarisy/EDA---Pakistan-s-Larges-Ecommers) | <img src="https://github.com/mhdalfarisy/EDA---Pakistan-s-Larges-Ecommers/blob/main/Images/62253a402fccf.jpg" width="300"/> |
+| [Employee Attrition Report](https://github.com/mhdalfarisy/Employee-Analysis-Attrition-Report) | <img src="https://github.com/mhdalfarisy/Employee-Analysis-Attrition-Report/blob/main/Aset/Reasons-Attrition1_large%20(1).jpg" width="300"/> |
 
-</tbody>
-</table>
- <tr>
-  
-<h1 align="left">Machine Learning - Unsupervised</h1>  
+### 🤖 Machine Learning
+| Type | Project | Preview |
+|------|---------|---------|
+| Supervised | [California House Price Prediction](https://github.com/mhdalfarisy/California-House-Price-Prediction-Using-Machine-Learning) | <img src="https://github.com/mhdalfarisy/California-House-Price-Prediction-Using-Machine-Learning/blob/main/gambar/CA-Sales-Home-Volume.png" width="300"/> |
+| Supervised | [Credit Card Fraud Detection](https://github.com/mhdalfarisy/Credit-Card-Fraud-Prediction) | <img src="https://github.com/mhdalfarisy/Credit-Card-Fraud-Prediction/blob/main/6874747073...jfif" width="300"/> |
+| Unsupervised | [Customer Segmentation Mall](https://github.com/mhdalfarisy/Segmentation-Customer-Mall) | <img src="https://github.com/mhdalfarisy/Segmentation-Customer-Mall/blob/main/2.-Customer-Segmentation.jpg" width="300"/> |
+| Unsupervised | [Customer Segmentation Supermarket](https://github.com/mhdalfarisy/Customer-Supermarket) | <img src="https://github.com/mhdalfarisy/mhdalfarisy/blob/main/istockphoto-1254636143-612x612.jpg" width="300"/> |
 
-<table>
-<tbody>
- <tr>  
-  
-<!-- <tr> -->
-<td align="center" width="50%">
-<span><b><left>Segmentation Customer Mall</center></b></span> 
-<code><a href="https://github.com/mhdalfarisy/Segmentation-Customer-Mall" target="_blank">
-<img height=250px src="https://github.com/mhdalfarisy/Segmentation-Customer-Mall/blob/main/2.-Customer-Segmentation.jpg"> 
-</td>
- 
-<!-- <tr> -->
-<td align="center" width="50%">
-<span><b><left>Segmentation Customer Supermarket</center></b></span>
-<code><a href="https://github.com/mhdalfarisy/Customer-Supermarket" target="_blank">
-<img height=250px src="https://github.com/mhdalfarisy/mhdalfarisy/blob/main/istockphoto-1254636143-612x612.jpg"> 
-</td> 
+---
 
- 
-</tbody>
-</table>
- <tr>
-  
-<br>
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mhdalfarisy&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhdalfarisy&layout=compact&theme=tokyonight" height="150"/>
+</p>
 
-<table>
-<tbody>
- <tr>
+---
 
+## 📬 Connect With Me
+<p>
+  <a href="mailto:m.alfarisy797@gmail.com"><img src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" width="30"/></a>
+  <a href="https://www.linkedin.com/in/m-alfarisy97/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" width="30"/></a>
+  <a href="https://public.tableau.com/app/profile/muhammad.al.farisy6147"><img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="80"/></a>
+</p>
 
-<br>
-<!-- <h1 align="center">Others Data Visualization Report</h1> -->
-<td align="left" width="30%">
-<span><b><left>Others Data Visualization Report (Click Picture) :   </left></b></span> 
-<code><a href="https://public.tableau.com/app/profile/muhammad.al.farisy6147" target="_blank"><img height="100" src="https://github.com/mhdalfarisy/mhdalfarisy/blob/main/tol_devices_optimized.png"></a></code>
-<br>
-<br>
-<br>
- 
-**💬 Ask me about anything, I'll be happy to help!** <br>
-**💬 My inbox is always open, Contact me**
-<br>
-<br> 
-  </a>
-  <a href="mailto:m.alfarisy797@gmail.com">
-    <img align="left" alt="Muhammad Al-farisy | Gmail" width="26px" src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" />
-  </a>
-  <a href="https://www.linkedin.com/in/m-alfarisy97/">
-    <img align="left" alt="Muhammad Al-farisy | LinkedIN" width="26px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />    
-  </a>
-<br>
-<br>
+---
 
-
-| <a href="https://github.com/mhdalfarisy"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mhdalfarisy&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/mhdalfarisy/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhdalfarisy&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
- 
-<table>
-<tbody>
- <tr>
- 
-<h1 align="left">THANKS YOU !!! </h1>
-
-<td align="center" width="30%">
-<img height=300px src="https://media.giphy.com/media/dyzew7Py7bnW9DiJJj/giphy.gif"> 
-</td>  
-  
-<!-- <td align="center" width="30%">
-<img height=300px src="https://media.giphy.com/media/7c8QeB0VMddFOuu4iR/giphy.gif"> 
-</td>
-  
-<td align="right" width="30%">
-<img height=300px src="https://media.giphy.com/media/gutZ5Pm6Xl62eIf5RZ/giphy.gif"> 
-</td>    -->
-
-⭐️ From [Muhammad Al-farisy](https://github.com/mhdalfarisy)
+<p align="center">⭐ From <a href="https://github.com/mhdalfarisy">Muhammad Al-farisy</a></p>
