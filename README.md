@@ -64,17 +64,17 @@ With a versatile background, I have experience in building reliable data pipelin
 
 <!-- <tr> -->
 <td align="left" width="20%">
-<span><b><left>Telco Customer Churn</center></b></span> 
+<!-- <span><b><left>Telco Customer Churn</center></b></span> 
 <code><a href="https://github.com/mhdalfarisy/Employee-Promotion" target="_blank">
 <img height=150px src="https://github.com/mhdalfarisy/mhdalfarisy/blob/main/7-Strategies-To-Reduce-Customer-Churn-Rate.png"> 
-</td>
+</td> -->
 
 <!-- <tr> -->
 <td align="left" width="20%">
-<span><b><left>Employee Promotion</center></b></span> 
-<code><a href="https://github.com/mhdalfarisy/Telco-Customer-Churn-Predict" target="_blank">
-<img height=150px src="https://github.com/mhdalfarisy/mhdalfarisy/blob/main/advance-career.jpg"> 
-</td>
+<!-- <span><b><left>Employee Promotion</center></b></span>  -->
+<!-- <code><a href="https://github.com/mhdalfarisy/Telco-Customer-Churn-Predict" target="_blank"> -->
+<!-- <img height=150px src="https://github.com/mhdalfarisy/mhdalfarisy/blob/main/advance-career.jpg">  -->
+<!-- </td> -->
 
 </tbody>
 </table>
