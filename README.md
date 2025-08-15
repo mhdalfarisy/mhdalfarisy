@@ -73,25 +73,19 @@ With a versatile background, I have experience in building reliable data pipelin
  <tr>  
   
 <!-- <tr> -->
-<td align="center" width="30%">
+<td align="center" width="50%">
 <span><b><left>Segmentation Customer Mall</center></b></span> 
 <code><a href="https://github.com/mhdalfarisy/Segmentation-Customer-Mall" target="_blank">
 <img height=250px src="https://github.com/mhdalfarisy/Segmentation-Customer-Mall/blob/main/2.-Customer-Segmentation.jpg"> 
 </td>
  
 <!-- <tr> -->
-<td align="center" width="30%">
+<td align="center" width="50%">
 <span><b><left>Segmentation Customer Supermarket</center></b></span>
 <code><a href="https://github.com/mhdalfarisy/Customer-Supermarket" target="_blank">
 <img height=250px src="https://github.com/mhdalfarisy/mhdalfarisy/blob/main/istockphoto-1254636143-612x612.jpg"> 
 </td> 
 
-<!-- <tr> -->
-<td align="center" width="30%">
-<span><b><left>Segmentation German Credit Risk</center></b></span>
-<code><a href="https://github.com/mhdalfarisy/German-Credit-Risk" target="_blank">
-<img height=250px src="https://media.istockphoto.com/vectors/banking-credit-card-vector-id1353716726?b=1&k=20&m=1353716726&s=612x612&w=0&h=qkwNRlcHCDUxeSgVYau8FczoM6x0sl693nvjAAcRmio="> 
-</td> 
  
 </tbody>
 </table>
@@ -102,33 +96,6 @@ With a versatile background, I have experience in building reliable data pipelin
 <table>
 <tbody>
  <tr>
-
-<h1 align="left">Data Visualization</h1>
-  
-<td align="left" width="20%">
-<span><b><Left>E-Commers Pakistan</center></b></span> 
-<code><a href="https://public.tableau.com/app/profile/muhammad.al.farisy6147/viz/ProjectE-CommersPakistanDashboard/Dashboard1" target="_blank">
-<img height=200px src="https://github.com/mhdalfarisy/mhdalfarisy/blob/main/Pakistan%20Visualisasi.png"> 
-</td>
- 
-<!-- <tr> -->
-<td align="left" width="30%">
-<span><b><left>Employee Attrition Report</center></b></span> 
-<code><a href="https://public.tableau.com/app/profile/muhammad.al.farisy6147/viz/ProjectHumanResourceAttritionAnalysisDashboard/Dashboard1" target="_blank">
-<img height=200px src="https://github.com/mhdalfarisy/mhdalfarisy/blob/main/HRD%20VIsualisasi.png"> 
-</td>
- 
-<!-- <tr> -->
-<td align="left" width="25%">
-<span><b><left>Telco Customer Churn</center></b></span> 
-<code><a href="https://public.tableau.com/app/profile/muhammad.al.farisy6147/viz/CustomerChunVisualization/Dashboard2?publish=yes" target="_blank">
-<img height=200px src="https://github.com/mhdalfarisy/mhdalfarisy/blob/main/Telco%20Customer%20Churn.png"> 
-</td>
- 
-</tbody>
-</table>
- <tr>
-
 
 
 <br>
