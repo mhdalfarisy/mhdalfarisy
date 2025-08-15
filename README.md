@@ -1,6 +1,6 @@
 <!-- Banner / Header -->
 <p align="center">
-  <img src="https://media.giphy.com/media/to9ZCSI7FZKPhSADo5/giphy.gif" width="300" alt="Data Analyst GIF"/>
+  <img src="https://media.giphy.com/media/to9ZCSI7FZKPhSADo5/giphy.gif" width="400" alt="Data Analyst GIF"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Faris</h1>
