@@ -1,22 +1,26 @@
 <!-- Banner / Header -->
-<p align="center">
-  <img src="https://media.giphy.com/media/to9ZCSI7FZKPhSADo5/giphy.gif" width="400" alt="Data Analyst GIF"/>
-</p>
 
 <h1 align="center">Hi 👋, I'm Faris</h1>
 <h3 align="center">Data Analyst | Data Engineer | AI Enthusiast</h3>
 
 ---
 
-## 📌 About Me
+📌 About Me
 
-- 📊 **Data Analyst** with experience in building interactive dashboards using **Power BI**  
-- 🔄 Support **Data Engineering Process** developing **data pipelines**, and managing **cloud data warehouses**  
-- 🤖 Interested in **Artificial Intelligence (AI)** and **automation** to support data-driven decision-making  
-- 🌱 Currently expanding expertise in **Data Engineering** & **Machine Learning**  
-- 🚀 Experienced in integrating data from multiple sources and transforming it into actionable insights  
+📊 Data Analyst with experience in building interactive dashboards using Power BI
+
+🔄 Support Data Engineering Process developing data pipelines, and managing cloud data warehouses
+
+🤖 Interested in Artificial Intelligence (AI) and automation to support data-driven decision-making
+
+🌱 Currently expanding expertise in Data Engineering & Machine Learning
+
+🚀 Experienced in integrating data from multiple sources and transforming it into actionable insights
+
+🌐 Portfolio: https://mhdalfarisy.github.io/analyticbyfaris/index.html
 
 ---
+
 
 
 ## 🛠 Tech Stack
@@ -57,4 +61,9 @@
   <a href="mailto:m.alfarisy797@gmail.com"><img src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" width="30"/></a>
   <a href="https://www.linkedin.com/in/m-alfarisy97/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" width="30"/></a>
   <a href="https://public.tableau.com/app/profile/muhammad.al.farisy6147"><img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="80"/></a>
+</p>
+
+
+<p align="center">
+  <img src="https://media.giphy.com/media/to9ZCSI7FZKPhSADo5/giphy.gif" width="600" alt="Data Analyst GIF"/>
 </p>
