@@ -11,7 +11,7 @@
 ## 📌 About Me
 
 - 📊 **Data Analyst** with experience in building interactive dashboards using **Power BI**  
-- 🔄 Suppoer **Data Engineering Process** developing **data pipelines**, and managing **cloud data warehouses**  
+- 🔄 Support **Data Engineering Process** developing **data pipelines**, and managing **cloud data warehouses**  
 - 🤖 Interested in **Artificial Intelligence (AI)** and **automation** to support data-driven decision-making  
 - 🌱 Currently expanding expertise in **Data Engineering** & **Machine Learning**  
 - 🚀 Experienced in integrating data from multiple sources and transforming it into actionable insights  
