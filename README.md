@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Faris</h1>
-<h3 align="center">Data Analyst | Aspiring Data Engineer | AI Enthusiast</h3>
+<h3 align="center"> Data Analyst | Data Engineer | AI Enthusiast</h3>
 
 ---
 
@@ -39,10 +39,10 @@
 ## 🚀 Featured Projects
 
 ### 📈 Data Analyst
-| Project | Preview |
-|---------|---------|
-| [E-Commerce Pakistan Analysis](https://github.com/mhdalfarisy/EDA---Pakistan-s-Larges-Ecommers) | <img src="https://github.com/mhdalfarisy/EDA---Pakistan-s-Larges-Ecommers/blob/main/Images/62253a402fccf.jpg" width="300"/> |
-| [Employee Attrition Report](https://github.com/mhdalfarisy/Employee-Analysis-Attrition-Report) | <img src="https://github.com/mhdalfarisy/Employee-Analysis-Attrition-Report/blob/main/Aset/Reasons-Attrition1_large%20(1).jpg" width="300"/> |
+| Type | Project | Preview |
+|------|---------|---------|
+| Eksplorasi Data Analysis  [E-Commerce Pakistan Analysis](https://github.com/mhdalfarisy/EDA---Pakistan-s-Larges-Ecommers) | <img src="https://github.com/mhdalfarisy/EDA---Pakistan-s-Larges-Ecommers/blob/main/Images/62253a402fccf.jpg" width="300"/> |
+| Eksplorasi Data Analysis  [Employee Attrition Report](https://github.com/mhdalfarisy/Employee-Analysis-Attrition-Report) | <img src="https://github.com/mhdalfarisy/Employee-Analysis-Attrition-Report/blob/main/Aset/Reasons-Attrition1_large%20(1).jpg" width="300"/> |
 
 ### 🤖 Machine Learning
 | Type | Project | Preview |
