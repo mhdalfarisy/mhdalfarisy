@@ -62,20 +62,6 @@ With a versatile background, I have experience in building reliable data pipelin
 <img height=150px src="https://github.com/mhdalfarisy/Credit-Card-Fraud-Prediction/blob/main/68747470733a2f2f65787465726e616c2d636f6e74656e742e6475636b6475636b676f2e636f6d2f69752f3f753d687474707325334125324625324661692d6a6f75726e65792e636f6d25324677702d636f6e74656e7425324675706c6f61647325324632303139253246.jfif"> 
 </td>
 
-<!-- <tr> -->
-<td align="left" width="20%">
-<!-- <span><b><left>Telco Customer Churn</center></b></span> 
-<code><a href="https://github.com/mhdalfarisy/Employee-Promotion" target="_blank">
-<img height=150px src="https://github.com/mhdalfarisy/mhdalfarisy/blob/main/7-Strategies-To-Reduce-Customer-Churn-Rate.png"> 
-</td> -->
-
-<!-- <tr> -->
-<td align="left" width="20%">
-<!-- <span><b><left>Employee Promotion</center></b></span>  -->
-<!-- <code><a href="https://github.com/mhdalfarisy/Telco-Customer-Churn-Predict" target="_blank"> -->
-<!-- <img height=150px src="https://github.com/mhdalfarisy/mhdalfarisy/blob/main/advance-career.jpg">  -->
-<!-- </td> -->
-
 </tbody>
 </table>
  <tr>
