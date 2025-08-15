@@ -26,8 +26,9 @@
   <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" height="50"/>
   <img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server-1.svg" height="50"/>
   <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/google_bigquery/icon.svg" height="50"/>   
+  <img src="https://www.vectorlogo.zone/logos/google_bigquery/icon.svg" height="50"/>
 </p>
+
 
 **Data Visualization**  
 <p>
