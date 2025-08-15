@@ -58,9 +58,9 @@
 
 ## 📬 Connect With Me
 <p>
-  <a href="mailto:m.alfarisy797@gmail.com"><img src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" width="30"/></a>
+<!--   <a href="mailto:m.alfarisy797@gmail.com"><img src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" width="30"/></a> -->
   <a href="https://www.linkedin.com/in/m-alfarisy97/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" width="30"/></a>
-  <a href="https://public.tableau.com/app/profile/muhammad.al.farisy6147"><img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="80"/></a>
+<!--   <a href="https://public.tableau.com/app/profile/muhammad.al.farisy6147"><img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="80"/></a> -->
 </p>
 
 
