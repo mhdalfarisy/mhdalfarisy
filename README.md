@@ -43,8 +43,8 @@
 ### 📈 Data Analyst
 | Type | Project | Preview |
 |------|---------|---------|
-| Eksplorasi Data Analysis  [E-Commerce Pakistan Analysis](https://github.com/mhdalfarisy/EDA---Pakistan-s-Larges-Ecommers) | <img src="https://github.com/mhdalfarisy/EDA---Pakistan-s-Larges-Ecommers/blob/main/Images/62253a402fccf.jpg" width="300"/> |
-| Eksplorasi Data Analysis  [Employee Attrition Report](https://github.com/mhdalfarisy/Employee-Analysis-Attrition-Report) | <img src="https://github.com/mhdalfarisy/Employee-Analysis-Attrition-Report/blob/main/Aset/Reasons-Attrition1_large%20(1).jpg" width="300"/> |
+| Eksplorasi Data Analysis | [E-Commerce Pakistan Analysis](https://github.com/mhdalfarisy/EDA---Pakistan-s-Larges-Ecommers) | <img src="https://github.com/mhdalfarisy/EDA---Pakistan-s-Larges-Ecommers/blob/main/Images/62253a402fccf.jpg" width="300"/> |
+| Eksplorasi Data Analysis | [Employee Attrition Report](https://github.com/mhdalfarisy/Employee-Analysis-Attrition-Report) | <img src="https://github.com/mhdalfarisy/Employee-Analysis-Attrition-Report/blob/main/Aset/Reasons-Attrition1_large%20(1).jpg" width="300"/> |
 
 ### 🤖 Machine Learning
 | Type | Project | Preview |
