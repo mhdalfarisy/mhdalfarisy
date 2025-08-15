@@ -50,13 +50,13 @@ With a versatile background, I have experience in building reliable data pipelin
  
 <h1 align="left">Machine Learning - Supervised</h1>
 
-<td align="left" width="20%">
+<td align="left" width="50%">
 <span><b><left>California House Price</center></b></span> 
 <code><a href="https://github.com/mhdalfarisy/California-House-Price-Prediction-Using-Machine-Learning" target="_blank">
 <img height=150px src="https://github.com/mhdalfarisy/California-House-Price-Prediction-Using-Machine-Learning/blob/main/gambar/CA-Sales-Home-Volume.png"> 
 </td>
 
-<td align="left" width="20%">
+<td align="left" width="50%">
 <span><b><left>Credit Card Fraud</center></b></span> 
 <code><a href="https://github.com/mhdalfarisy/Credit-Card-Fraud-Prediction" target="_blank">
 <img height=150px src="https://github.com/mhdalfarisy/Credit-Card-Fraud-Prediction/blob/main/68747470733a2f2f65787465726e616c2d636f6e74656e742e6475636b6475636b676f2e636f6d2f69752f3f753d687474707325334125324625324661692d6a6f75726e65792e636f6d25324677702d636f6e74656e7425324675706c6f61647325324632303139253246.jfif"> 
