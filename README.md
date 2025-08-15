@@ -10,45 +10,44 @@
 
 ## 📌 About Me
 
-- 📊 **Data Analyst** dengan pengalaman membuat dashboard interaktif menggunakan **Power BI**  
-- 🔄 Terampil dalam **ETL**, **data pipelines**, dan **cloud data warehouses**  
-- 🤖 Tertarik pada **AI** & **automation** untuk mendukung pengambilan keputusan berbasis data  
-- 🌱 Sedang mempelajari **Data Engineering & Machine Learning**  
+- 📊 **Data Analyst** with experience in building interactive dashboards using **Power BI**  
+- 🔄 Suppoer **Data Engineering Process** developing **data pipelines**, and managing **cloud data warehouses**  
+- 🤖 Interested in **Artificial Intelligence (AI)** and **automation** to support data-driven decision-making  
+- 🌱 Currently expanding expertise in **Data Engineering** & **Machine Learning**  
+- 🚀 Experienced in integrating data from multiple sources and transforming it into actionable insights  
 
 ---
 
+
 ## 🛠 Tech Stack
 
-### 🖥 Programming & Tools
+## 🖥 Programming & Tools
 <p>
-  <img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg" height="50"/>
-  <img src="https://code.visualstudio.com/assets/images/code-stable.png" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg" height="40"/>
+  <img src="https://code.visualstudio.com/assets/images/code-stable.png" height="40"/>
 </p>
 
-### 🗄 Database Tools
+## 🗄 Database Tools
 <p>
-  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/microsoft_sql_server/microsoft_sql_server-ar21.svg" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg" height="40"/>
 </p>
 
-### 🏢 Data Warehouse Tools
+## 🏢 Data Warehouse Tools
 <p>
-  <img src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-ar21.svg" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-ar21.svg" height="40"/>
 </p>
 
-### ⏳ Scheduler
+## ⏳ Scheduler
 <p>
-<img src="https://raw.githubusercontent.com/mhdalfarisy/mhdalfarisy/main/assets/img/windows-task-scheduler.png" height="50" alt="Windows Task Scheduler Logo"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png" height="50" alt="Apache Airflow"/>
+  <img src="./windows-task-scheduler.jpeg" height="30" alt="Windows Task Scheduler Logo" style="margin-right: 30px;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png" height="30" alt="Apache Airflow"/>
 </p>
 
 
-### 📊 Data Visualization
+## 📊 Data Visualization
 <p>
-  <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/tableau/tableau-ar21.svg" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg" height="100"/>
 </p>
 
 ---
