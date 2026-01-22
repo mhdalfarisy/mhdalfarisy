@@ -18,7 +18,7 @@
 
 🤖 Passionate about <strong>Artificial Intelligence (AI)</strong> and <strong>automation</strong>, particularly in chatbot and <strong>Large Language Model (LLM)</strong> applications.
 
-🌱 Currently expanding expertise in <strong>Data Engineering</strong> and <strong>Machine Learning</strong> to build scalable and intelligent data solutions.
+🌱 Currently expanding expertise in <strong>Data Science</strong> and <strong>AI Engineer</strong> to build scalable and intelligent data solutions.
 
 ---
 
