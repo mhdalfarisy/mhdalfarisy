@@ -8,9 +8,13 @@
 📌 About Me
 
 📊 Data Analyst with professional experience in building interactive dashboards using Power BI, support Data Engineering Process developing data pipelines and managing cloud data warehouses.
+
 🤖 Interested in Artificial Intelligence (AI) and automation to support data-driven decision-making (Chatbot and LLM)
+
 🌱 Currently expanding expertise in Data Engineering & Machine Learning
+
 🚀 Experienced in integrating data from multiple sources and transforming it into actionable insights
+
 🌐 Portfolio: https://mhdalfarisy.github.io/analyticbyfaris/index.html
 ---
 ## 🛠 Tech Stack
@@ -25,18 +29,25 @@
 <p>
   <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg" height="40"/>
 </p>
+
 ## 🏢 Data Warehouse Tools
+
 <p>
   <img src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-ar21.svg" height="40"/>
 </p>
+
 ## ⏳ Scheduler
+
 <p>
   <img src="./windows-task-scheduler.jpeg" height="30" alt="Windows Task Scheduler Logo" style="margin-right: 30px;"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png" height="30" alt="Apache Airflow"/>
 </p>
+
 ## 📊 Data Visualization
+
 <p>
   <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg" height="100"/>
+
 </p>
 ---
 
