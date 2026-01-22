@@ -1,16 +1,18 @@
 <h1 align="center">Hi 👋, I'm Faris</h1>
-<h3 align="center">Data Analyst | Data Engineer | AI Enthusiast</h3>
+<h3 align="center">Professional Data Analyst & Data Engineer</h3>
 
 <p align="center">
   <a href="https://mhdalfarisy.github.io/analyticbyfaris/index.html">🌐 Portfolio</a> •
   <a href="https://www.linkedin.com/in/m-alfarisy97/">💼 LinkedIn</a>
 </p>
 
+
 ---
 
 ## 📌 About Me
 
-📊 <strong>Data Analyst with 4+ years of experience</strong> in data analysis and data engineering, specializing in building interactive dashboards using <strong>Power BI</strong>, supporting <strong>Data Engineering processes</strong>, developing <strong>data pipelines</strong>, and managing <strong>cloud-based data warehouses</strong>.
+
+📊 <strong>Specializing in end-to-end data workflows, from data migration and ETL processes to building interactive dashboards using Power BI, supporting data engineering initiatives, developing scalable data pipelines, and managing cloud-based data warehouses to deliver professional, high-quality analytical reports and actionable business insights for enterprise-level decision-making, particularly within the mining industry.</strong>
 
 🚀 Proven experience in integrating data from multiple sources, performing data transformation, and delivering <strong>accurate, actionable insights</strong> to support business decision-making.
 
