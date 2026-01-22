@@ -1,65 +1,91 @@
-<!-- Banner / Header -->
-
 <h1 align="center">Hi 👋, I'm Faris</h1>
 <h3 align="center">Data Analyst | Data Engineer | AI Enthusiast</h3>
 
+<p align="center">
+  <a href="https://mhdalfarisy.github.io/analyticbyfaris/index.html">🌐 Portfolio</a> •
+  <a href="https://www.linkedin.com/in/m-alfarisy97/">💼 LinkedIn</a>
+</p>
+
 ---
 
-📌 About Me
+## 📌 About Me
 
-📊 Data Analyst with professional experience in building interactive dashboards using Power BI, support Data Engineering Process developing data pipelines and managing cloud data warehouses.
+📊 <strong>Data Analyst with 4+ years of experience</strong> in data analysis and data engineering, specializing in building interactive dashboards using <strong>Power BI</strong>, supporting <strong>Data Engineering processes</strong>, developing <strong>data pipelines</strong>, and managing <strong>cloud-based data warehouses</strong>.
 
-🤖 Interested in Artificial Intelligence (AI) and automation to support data-driven decision-making (Chatbot and LLM)
+🚀 Proven experience in integrating data from multiple sources, performing data transformation, and delivering <strong>accurate, actionable insights</strong> to support business decision-making.
 
-🌱 Currently expanding expertise in Data Engineering & Machine Learning
+🤖 Passionate about <strong>Artificial Intelligence (AI)</strong> and <strong>automation</strong>, particularly in chatbot and <strong>Large Language Model (LLM)</strong> applications.
 
-🚀 Experienced in integrating data from multiple sources and transforming it into actionable insights
+🌱 Currently expanding expertise in <strong>Data Engineering</strong> and <strong>Machine Learning</strong> to build scalable and intelligent data solutions.
 
-🌐 Portfolio: https://mhdalfarisy.github.io/analyticbyfaris/index.html
 ---
+
 ## 🛠 Tech Stack
-## 🖥 Programming & Tools
-<p>
-  <img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg" height="40"/>
-  <img src="https://code.visualstudio.com/assets/images/code-stable.png" height="40"/>
-</p>
 
-## 🗄 Database Tools
-<p>
-  <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg" height="40"/>
-</p>
+<table width="100%">
+  <tr>
+    <td width="35%" valign="top">
+      <strong>🖥 Programming & Tools</strong>
+    </td>
+    <td width="65%" align="right">
+      <img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" height="40" alt="Python"/>
+      <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg" height="40" alt="Jupyter"/>
+      <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg" height="40" alt="VS Code"/>
+    </td>
+  </tr>
 
-## 🏢 Data Warehouse Tools
+  <tr>
+    <td valign="top">
+      <strong>🗄 Database</strong>
+    </td>
+    <td align="right">
+      <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg" height="40" alt="PostgreSQL"/>
+      <!-- <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" height="28" alt="Microsoft SQL Server"/> -->
+      <!-- <img src="./assets/sql-server.png" height="40" alt="Microsoft SQL Server"/> -->
+    </td>
+  </tr>
 
-<p>
-  <img src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-ar21.svg" height="40"/>
-</p>
 
-## ⏳ Scheduler
+  <tr>
+    <td valign="top">
+      <strong>🏢 Data Warehouse</strong>
+    </td>
+    <td align="right">
+      <img src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-ar21.svg" height="40" alt="Google BigQuery"/>
+    </td>
+  </tr>
 
-<p>
-  <img src="./windows-task-scheduler.jpeg" height="30" alt="Windows Task Scheduler Logo" style="margin-right: 30px;"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png" height="30" alt="Apache Airflow"/>
-</p>
+  <tr>
+    <td valign="top">
+      <strong>⏳ Workflow & Scheduler</strong>
+    </td>
+    <td align="right">
+      <img src="./windows-task-scheduler.jpeg" height="30" alt="Windows Task Scheduler"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png" height="30" alt="Apache Airflow"/>
+    </td>
+  </tr>
 
-## 📊 Data Visualization
+  <tr>
+    <td valign="top">
+      <strong>📊 Data Visualization</strong>
+    </td>
+    <td align="right">
+      <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg" height="80" alt="Power BI"/>
+    </td>
+  </tr>
+</table>
 
-<p>
-  <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg" height="100"/>
-
-</p>
 ---
 
 ## 📬 Connect With Me
-<p>
-<!--   <a href="mailto:m.alfarisy797@gmail.com"><img src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" width="30"/></a> -->
-  <a href="https://www.linkedin.com/in/m-alfarisy97/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" width="30"/></a>
-<!--   <a href="https://public.tableau.com/app/profile/muhammad.al.farisy6147"><img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="80"/></a> -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/m-alfarisy97/">
+    <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" width="30" alt="LinkedIn"/>
+  </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/to9ZCSI7FZKPhSADo5/giphy.gif" width="500" alt="Data Analyst GIF"/>
+  <img src="https://media.giphy.com/media/to9ZCSI7FZKPhSADo5/giphy.gif" width="450" alt="Data Analyst Animation"/>
 </p>
