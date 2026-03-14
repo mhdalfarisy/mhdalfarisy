@@ -2,7 +2,7 @@
 <h3 align="center">Professional Data Analyst & Data Engineer</h3>
 
 <p align="center">
-  <a href="https://mhdalfarisy.github.io/analyticbyfaris/index.html">🌐 Portfolio</a> •
+  <a href="https://mhdalfarisy.github.io/#/">🌐 Portfolio</a> •
   <a href="https://www.linkedin.com/in/m-alfarisy97/">💼 LinkedIn</a>
 </p>
 
